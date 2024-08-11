@@ -1,0 +1,848 @@
+In undefined env !
+Redis version greater than or equal to 2.8.18 Required !
+Server running on PORT 5000 9/8/2024, 6:33:28 pm
+Database Connected !!!
+GET /loggedIn 9/8/2024, 6:33:54 pm
+GET /problems 9/8/2024, 6:33:54 pm
+GET /loggedIn 9/8/2024, 6:34:17 pm
+GET /problems 9/8/2024, 6:34:17 pm
+GET /leaderboard 9/8/2024, 6:34:19 pm
+POST /register 9/8/2024, 6:35:12 pm
+GET /loggedIn 9/8/2024, 6:35:12 pm
+In undefined env !
+Redis version greater than or equal to 2.8.18 Required !
+Server running on PORT 5000 9/8/2024, 6:38:47 pm
+Deleted(stopped) : py-oj-container
+
+Deleted(stopped) : gcc-oj-container
+
+Deleted(stopped) : js-oj-container
+
+Deleted(stopped) : java-oj-container
+
+gcc-oj-container Id : 306c053a522f768242cec0920bd37700bce0aa278c4f32b4f8fc0de11557110c
+py-oj-container Id : 0e273acc7b8e26051ff529f6b4ea9c31652c9fb91e0d87a3ac2e2baf5236106f
+js-oj-container Id : 292853241d98a711bf9b024222a26a8f2b50ebf16b5bac8a8067aa464ba7810e
+java-oj-container Id : bf0e850e051569a2a1a4d95a8ba67a29a9dfe55e3a01e91d6107ee32a51d55ec
+
+All Containers Initialized
+Database Connected !!!
+GET /loggedIn 9/8/2024, 6:39:08 pm
+GET /problems 9/8/2024, 6:39:08 pm
+POST /register 9/8/2024, 6:39:30 pm
+GET /loggedIn 9/8/2024, 6:39:30 pm
+GET /loggedIn 9/8/2024, 6:40:36 pm
+GET /problems 9/8/2024, 6:40:36 pm
+In undefined env !
+Redis version greater than or equal to 2.8.18 Required !
+Server running on PORT 5000 9/8/2024, 6:49:55 pm
+Deleted(stopped) : java-oj-container
+
+Deleted(stopped) : gcc-oj-container
+
+Deleted(stopped) : py-oj-container
+
+Deleted(stopped) : js-oj-container
+
+gcc-oj-container Id : d944b14b1abed4584d1e21eb3c50508dfedb6480b0b8fd3a87c46e9691126c9e
+py-oj-container Id : 09248c566e6d76d7b79ca0025d0e614c55c50ca80861bbb7c63b96780ff228e6
+js-oj-container Id : 75b96e1ed6c5ce43de41e8ecdbf4061b0adf43095f36906b83669ba93830dbbd
+java-oj-container Id : 35ea8803e19c9a692e0ad403fe5e1e4c6392276cc64df95db95a5f876737da15
+
+All Containers Initialized
+Database Connected !!!
+GET /problems 9/8/2024, 6:50:28 pm
+GET /loggedIn 9/8/2024, 6:50:28 pm
+POST /register 9/8/2024, 6:51:01 pm
+GET /loggedIn 9/8/2024, 6:51:01 pm
+GET /loggedIn 9/8/2024, 6:52:08 pm
+GET /problems 9/8/2024, 6:52:08 pm
+POST /register 9/8/2024, 6:52:38 pm
+GET /loggedIn 9/8/2024, 6:52:38 pm
+GET /loggedIn 9/8/2024, 6:52:58 pm
+GET /problems 9/8/2024, 6:52:58 pm
+POST /register 9/8/2024, 6:54:25 pm
+POST /register 9/8/2024, 6:55:41 pm
+POST /register 9/8/2024, 6:56:15 pm
+POST /register 9/8/2024, 6:58:15 pm
+POST /register 9/8/2024, 7:00:03 pm
+POST /register 9/8/2024, 7:00:29 pm
+POST /login 9/8/2024, 7:01:05 pm
+GET /loggedIn 9/8/2024, 7:01:05 pm
+GET /logout 9/8/2024, 10:00:32 pm
+GET /loggedIn 9/8/2024, 10:00:33 pm
+POST /register 9/8/2024, 10:00:55 pm
+GET /loggedIn 9/8/2024, 10:00:55 pm
+GET /loggedIn 9/8/2024, 10:05:05 pm
+GET /problems 9/8/2024, 10:05:05 pm
+GET /loggedIn 9/8/2024, 10:09:04 pm
+GET /problems 9/8/2024, 10:09:04 pm
+GET /loggedIn 9/8/2024, 10:13:30 pm
+GET /problems 9/8/2024, 10:13:30 pm
+GET /loggedIn 9/8/2024, 10:20:26 pm
+GET /problems 9/8/2024, 10:20:26 pm
+GET /loggedIn 9/8/2024, 10:20:28 pm
+GET /problems 9/8/2024, 10:20:28 pm
+POST /problems/66b648cb6c94c24740a23526 9/8/2024, 10:26:09 pm
+Unlinked : b9d7c685-34f6-4d31-a2df-ba8cff4a6041.cpp
+GET /status/66b64a291efa0e5616d4a164 9/8/2024, 10:26:10 pm
+POST /problems/66b648cb6c94c24740a23526 9/8/2024, 10:26:42 pm
+Unlinked : 9b6a2af6-4065-45dc-8340-b03757972b57.cpp
+GET /status/66b64a4a1efa0e5616d4a174 9/8/2024, 10:26:43 pm
+POST /problems/66b648cb6c94c24740a23526 9/8/2024, 10:27:34 pm
+Unlinked : ce01c89a-ed28-4c54-8809-9f98905be07d.cpp
+GET /status/66b64a7e1efa0e5616d4a184 9/8/2024, 10:27:35 pm
+POST /problems/66b648cb6c94c24740a23526 9/8/2024, 10:29:51 pm
+Unlinked : 093ce13d-0c3d-4b0b-a0c0-31698b5f020a.cpp
+GET /status/66b64b071efa0e5616d4a194 9/8/2024, 10:29:53 pm
+POST /problems/66b648cb6c94c24740a23526 9/8/2024, 10:29:54 pm
+Unlinked : 518ae817-e49c-4cbd-8cfe-a3a258a4be47.cpp
+GET /status/66b64b0a1efa0e5616d4a1a4 9/8/2024, 10:29:55 pm
+GET /loggedIn 9/8/2024, 10:29:57 pm
+GET /problems 9/8/2024, 10:29:57 pm
+POST /problems/66b648cb6c94c24740a23526 9/8/2024, 10:30:14 pm
+GET /status/66b64b1e1efa0e5616d4a1ba 9/8/2024, 10:30:15 pm
+POST /problems/66b648cb6c94c24740a23526 9/8/2024, 10:33:50 pm
+Unlinked : 21381833-66cc-4c9f-bdc8-716c56d7daa4.cpp
+GET /status/66b64bf61efa0e5616d4a1ca 9/8/2024, 10:33:51 pm
+POST /problems/66b648cb6c94c24740a23526 9/8/2024, 10:45:44 pm
+Unlinked : ff980465-eec8-4373-8045-6e87bf9ba5a4.cpp
+GET /status/66b64ec01efa0e5616d4a1da 9/8/2024, 10:45:45 pm
+GET /loggedIn 9/8/2024, 10:47:32 pm
+GET /problems 9/8/2024, 10:47:32 pm
+POST /problems/66b64f196c94c24740a2352c 9/8/2024, 10:47:41 pm
+Unlinked : 4db51958-f75e-4002-b063-197ddb558304.cpp
+GET /status/66b64f351efa0e5616d4a1f0 9/8/2024, 10:47:42 pm
+POST /problems/66b64f196c94c24740a2352c 9/8/2024, 10:48:00 pm
+Unlinked : 3ff73909-3d95-4970-8a16-7624d1b4df0e.cpp
+GET /status/66b64f481efa0e5616d4a200 9/8/2024, 10:48:01 pm
+POST /problems/66b64f196c94c24740a2352c 9/8/2024, 10:51:33 pm
+Unlinked : 1cca9c2b-e293-4bb1-872c-900a9590a3f5.cpp
+GET /status/66b6501d1efa0e5616d4a210 9/8/2024, 10:51:35 pm
+POST /problems/66b64f196c94c24740a2352c 9/8/2024, 10:55:22 pm
+Unlinked : 8695355b-cf10-4839-8853-d39e9e129a8b.cpp
+GET /status/66b651021efa0e5616d4a220 9/8/2024, 10:55:24 pm
+GET /loggedIn 9/8/2024, 10:55:39 pm
+GET /problems 9/8/2024, 10:55:39 pm
+POST /problems/66b64f196c94c24740a2352c 9/8/2024, 10:55:47 pm
+Unlinked : f1350d0d-264c-4c63-9659-69163050ffac.cpp
+GET /status/66b6511b1efa0e5616d4a236 9/8/2024, 10:55:48 pm
+GET /loggedIn 9/8/2024, 10:57:18 pm
+GET /problems 9/8/2024, 10:57:18 pm
+POST /problems/66b64f196c94c24740a2352c 9/8/2024, 10:57:27 pm
+Unlinked : c6f5f439-1029-4a28-be26-73f4aea62f52.cpp
+GET /status/66b6517f1efa0e5616d4a24c 9/8/2024, 10:57:28 pm
+GET /loggedIn 9/8/2024, 11:02:13 pm
+GET /problems 9/8/2024, 11:02:13 pm
+POST /problems/66b64f196c94c24740a2352c 9/8/2024, 11:02:17 pm
+Unlinked : 8cc04a7c-4240-4cf1-8864-91a8cfa113c3.cpp
+GET /status/66b652a21efa0e5616d4a262 9/8/2024, 11:02:19 pm
+POST /problems/66b64f196c94c24740a2352c 9/8/2024, 11:02:47 pm
+Unlinked : de073db5-8add-4598-b862-485fd27ec986.cpp
+GET /status/66b652bf1efa0e5616d4a272 9/8/2024, 11:02:48 pm
+POST /problems/66b64f196c94c24740a2352c 9/8/2024, 11:02:50 pm
+Unlinked : ccca23af-7e65-43c5-9af1-07253ed00571.cpp
+GET /status/66b652c21efa0e5616d4a282 9/8/2024, 11:02:51 pm
+GET /loggedIn 9/8/2024, 11:06:00 pm
+GET /problems 9/8/2024, 11:06:00 pm
+POST /problems/66b6537a6c94c24740a2352d 9/8/2024, 11:06:08 pm
+GET /status/66b653881efa0e5616d4a298 9/8/2024, 11:06:10 pm
+GET /status/66b653881efa0e5616d4a298 9/8/2024, 11:06:11 pm
+GET /status/66b653881efa0e5616d4a298 9/8/2024, 11:06:12 pm
+GET /status/66b653881efa0e5616d4a298 9/8/2024, 11:06:13 pm
+Unlinked : 4aa5f6ee-b1f7-4d85-91a7-e5a60f737a31.cpp
+Unlinked : 4aa5f6ee-b1f7-4d85-91a7-e5a60f737a31.out
+GET /status/66b653881efa0e5616d4a298 9/8/2024, 11:06:14 pm
+POST /problems/66b6537a6c94c24740a2352d 9/8/2024, 11:07:38 pm
+GET /status/66b653e21efa0e5616d4a2b4 9/8/2024, 11:07:39 pm
+GET /status/66b653e21efa0e5616d4a2b4 9/8/2024, 11:07:40 pm
+Unlinked : fd3fd0c5-40da-4efd-ad51-3b8ac15e7d7f.cpp
+Unlinked : fd3fd0c5-40da-4efd-ad51-3b8ac15e7d7f.out
+POST /problems/66b6537a6c94c24740a2352d 9/8/2024, 11:08:14 pm
+GET /status/66b654071efa0e5616d4a2c7 9/8/2024, 11:08:16 pm
+GET /status/66b654071efa0e5616d4a2c7 9/8/2024, 11:08:17 pm
+Unlinked : ff0d4458-4812-4436-9962-cec24e8ed1a8.cpp
+Unlinked : ff0d4458-4812-4436-9962-cec24e8ed1a8.out
+GET /status/66b654071efa0e5616d4a2c7 9/8/2024, 11:08:18 pm
+GET /loggedIn 9/8/2024, 11:11:42 pm
+GET /problems 9/8/2024, 11:11:42 pm
+GET /logout 9/8/2024, 11:15:58 pm
+GET /loggedIn 9/8/2024, 11:15:59 pm
+In undefined env !
+Redis version greater than or equal to 2.8.18 Required !
+Server running on PORT 5000 9/8/2024, 11:18:34 pm
+Deleted(stopped) : js-oj-container
+
+Deleted(stopped) : py-oj-container
+
+Deleted(stopped) : gcc-oj-container
+
+Deleted(stopped) : java-oj-container
+
+gcc-oj-container Id : 1e36c1e55ecb64dc5ba716bfe8bcb8a87ee987f49fe0cd123b9c5d9c71ac6481
+py-oj-container Id : 758b7e6d3b83db5d381fece1bdc1823b5700d6f9d071bc4b2957de94a42d032e
+js-oj-container Id : 9f04d921e8bc4f82d59cae956c7239031110809b839a22c8bae3be109135de4c
+java-oj-container Id : aa15236791ed13039d9b8920654477232ca5bc783b41a05a1f4bc9356f76969e
+
+All Containers Initialized
+Database Connected !!!
+GET /problems 9/8/2024, 11:18:47 pm
+GET /loggedIn 9/8/2024, 11:18:47 pm
+POST /problems/66b6537a6c94c24740a2352d 9/8/2024, 11:19:06 pm
+GET /status/66b656920f92fbecfc9798ca 9/8/2024, 11:19:07 pm
+GET /status/66b656920f92fbecfc9798ca 9/8/2024, 11:19:08 pm
+GET /status/66b656920f92fbecfc9798ca 9/8/2024, 11:19:09 pm
+Unlinked : f3c7c6d6-2123-449f-ab86-40e3366cc463.cpp
+Unlinked : f3c7c6d6-2123-449f-ab86-40e3366cc463.out
+GET /status/66b656920f92fbecfc9798ca 9/8/2024, 11:19:10 pm
+GET /loggedIn 9/8/2024, 11:19:40 pm
+GET /problems 9/8/2024, 11:19:40 pm
+In undefined env !
+Redis version greater than or equal to 2.8.18 Required !
+Server running on PORT 5000 9/8/2024, 11:20:23 pm
+Deleted(stopped) : gcc-oj-container
+
+Deleted(stopped) : py-oj-container
+
+Deleted(stopped) : js-oj-container
+
+Deleted(stopped) : java-oj-container
+
+gcc-oj-container Id : f91594abcf49f55a4b6d0b94e4d71822bfbd8b36f2d7f37e2de22660ae797fa2
+py-oj-container Id : a46824fdcce5cdbb5c686b8353177be9335f7d47f209ec2bc430005126518f07
+js-oj-container Id : fb86a76a9ca5df5e82935ba728694153dc37f94a05e16ecf3828f128a3e96812
+java-oj-container Id : 248d894150fe34bcf2c0b7cca4c5fba123adcb465c8bd1ba7f4bde96ec2789a9
+
+All Containers Initialized
+Database Connected !!!
+GET /loggedIn 9/8/2024, 11:21:10 pm
+GET /problems 9/8/2024, 11:21:10 pm
+GET /loggedIn 9/8/2024, 11:44:07 pm
+GET /loggedIn 9/8/2024, 11:44:07 pm
+GET /loggedIn 9/8/2024, 11:44:09 pm
+GET /loggedIn 9/8/2024, 11:45:03 pm
+GET /loggedIn 9/8/2024, 11:45:03 pm
+GET /loggedIn 9/8/2024, 11:45:05 pm
+GET /loggedIn 9/8/2024, 11:45:05 pm
+GET /loggedIn 9/8/2024, 11:45:09 pm
+GET /loggedIn 9/8/2024, 11:45:09 pm
+GET /loggedIn 9/8/2024, 11:45:13 pm
+GET /loggedIn 9/8/2024, 11:45:13 pm
+GET /loggedIn 9/8/2024, 11:45:34 pm
+GET /loggedIn 9/8/2024, 11:45:34 pm
+GET /loggedIn 9/8/2024, 11:45:40 pm
+GET /loggedIn 9/8/2024, 11:45:40 pm
+GET /loggedIn 9/8/2024, 11:45:49 pm
+GET /loggedIn 9/8/2024, 11:45:49 pm
+GET /loggedIn 9/8/2024, 11:45:54 pm
+GET /loggedIn 9/8/2024, 11:45:54 pm
+GET /loggedIn 9/8/2024, 11:46:01 pm
+GET /loggedIn 9/8/2024, 11:46:01 pm
+GET /loggedIn 9/8/2024, 11:46:12 pm
+GET /loggedIn 9/8/2024, 11:46:12 pm
+GET /loggedIn 9/8/2024, 11:46:19 pm
+GET /loggedIn 9/8/2024, 11:46:19 pm
+POST /login 9/8/2024, 11:46:30 pm
+GET /loggedIn 9/8/2024, 11:46:30 pm
+GET /loggedIn 9/8/2024, 11:47:28 pm
+GET /loggedIn 9/8/2024, 11:48:22 pm
+GET /loggedIn 9/8/2024, 11:48:22 pm
+GET /loggedIn 9/8/2024, 11:48:39 pm
+GET /logout 9/8/2024, 11:48:46 pm
+GET /loggedIn 9/8/2024, 11:48:46 pm
+POST /login 9/8/2024, 11:48:55 pm
+GET /loggedIn 9/8/2024, 11:48:55 pm
+GET /loggedIn 9/8/2024, 11:49:56 pm
+GET /problems 9/8/2024, 11:52:22 pm
+GET /loggedIn 9/8/2024, 11:54:57 pm
+GET /problems 9/8/2024, 11:54:58 pm
+GET /loggedIn 9/8/2024, 11:54:58 pm
+GET /problems 9/8/2024, 11:54:58 pm
+GET /loggedIn 9/8/2024, 11:55:05 pm
+GET /problems 9/8/2024, 11:55:05 pm
+GET /problems 9/8/2024, 11:56:46 pm
+GET /loggedIn 9/8/2024, 11:56:46 pm
+GET /loggedIn 9/8/2024, 11:57:23 pm
+GET /problems 9/8/2024, 11:57:23 pm
+GET /problems 9/8/2024, 11:57:38 pm
+GET /loggedIn 9/8/2024, 11:57:38 pm
+GET /loggedIn 9/8/2024, 11:57:42 pm
+GET /problems 9/8/2024, 11:57:42 pm
+GET /problems 9/8/2024, 11:58:00 pm
+GET /loggedIn 9/8/2024, 11:58:00 pm
+GET /problems 9/8/2024, 11:58:13 pm
+GET /loggedIn 9/8/2024, 11:58:13 pm
+GET /loggedIn 9/8/2024, 11:58:15 pm
+GET /problems 9/8/2024, 11:58:15 pm
+GET /problems 9/8/2024, 11:58:29 pm
+GET /loggedIn 9/8/2024, 11:58:29 pm
+GET /loggedIn 9/8/2024, 11:59:42 pm
+GET /problems 9/8/2024, 11:59:42 pm
+GET /loggedIn 10/8/2024, 12:01:02 am
+GET /problems 10/8/2024, 12:01:02 am
+POST /problems/66b6537a6c94c24740a2352d 10/8/2024, 12:01:07 am
+GET /status/66b6606b79a0c0e18e6043d9 10/8/2024, 12:01:08 am
+GET /status/66b6606b79a0c0e18e6043d9 10/8/2024, 12:01:09 am
+GET /status/66b6606b79a0c0e18e6043d9 10/8/2024, 12:01:10 am
+GET /status/66b6606b79a0c0e18e6043d9 10/8/2024, 12:01:11 am
+GET /status/66b6606b79a0c0e18e6043d9 10/8/2024, 12:01:12 am
+GET /status/66b6606b79a0c0e18e6043d9 10/8/2024, 12:01:13 am
+Unlinked : 8713bd6f-fe25-4897-9054-ca916b4ced0c.cpp
+Unlinked : 8713bd6f-fe25-4897-9054-ca916b4ced0c.out
+GET /status/66b6606b79a0c0e18e6043d9 10/8/2024, 12:01:14 am
+GET /problems 10/8/2024, 12:02:09 am
+GET /loggedIn 10/8/2024, 12:02:09 am
+GET /problems 10/8/2024, 12:05:30 am
+GET /loggedIn 10/8/2024, 12:05:30 am
+In undefined env !
+Redis version greater than or equal to 2.8.18 Required !
+Server running on PORT 5000 10/8/2024, 12:42:08 am
+Deleted(stopped) : js-oj-container
+
+Deleted(stopped) : java-oj-container
+
+Deleted(stopped) : py-oj-container
+
+Deleted(stopped) : gcc-oj-container
+
+gcc-oj-container Id : 5063a7767448e6168a4eb99d134cdc65a5c026bd710ed55a029c1cf4fd165ab9
+py-oj-container Id : 6696fe6946fc385447c960a98f8f91a9ab1614b56a0e7b3e88326e58559783f4
+js-oj-container Id : 71a428f0fa7317148ffeef58b41419751a5d1f0ef6f0f612eeb2cab300527b79
+java-oj-container Id : b580b4c184ae41993fc584d2c4baedd4050d629992e37fbc45e3c9672ca45914
+
+All Containers Initialized
+Database Connected !!!
+GET /loggedIn 10/8/2024, 12:42:22 am
+GET /problems 10/8/2024, 12:42:22 am
+GET /loggedIn 10/8/2024, 12:45:10 am
+GET /problems 10/8/2024, 12:45:10 am
+GET /loggedIn 10/8/2024, 12:47:40 am
+GET /problems 10/8/2024, 12:47:40 am
+GET /loggedIn 10/8/2024, 12:52:22 am
+GET /problems 10/8/2024, 12:52:22 am
+GET /leaderboard 10/8/2024, 1:05:54 am
+GET /getcode/66b6606b79a0c0e18e6043d7 10/8/2024, 1:05:59 am
+GET /leaderboard 10/8/2024, 1:06:01 am
+GET /problems 10/8/2024, 1:23:16 am
+GET /loggedIn 10/8/2024, 1:23:16 am
+GET /loggedIn 10/8/2024, 1:27:17 am
+GET /problems 10/8/2024, 1:27:17 am
+GET /loggedIn 10/8/2024, 1:29:29 am
+GET /problems 10/8/2024, 1:29:29 am
+GET /loggedIn 10/8/2024, 1:29:31 am
+GET /problems 10/8/2024, 1:29:31 am
+GET /problems 10/8/2024, 1:37:13 am
+GET /loggedIn 10/8/2024, 1:37:13 am
+GET /problems 10/8/2024, 1:41:36 am
+GET /loggedIn 10/8/2024, 1:41:36 am
+GET /loggedIn 10/8/2024, 1:44:50 am
+GET /problems 10/8/2024, 1:44:50 am
+GET /loggedIn 10/8/2024, 1:49:48 am
+GET /problems 10/8/2024, 1:49:48 am
+In undefined env !
+Redis version greater than or equal to 2.8.18 Required !
+Server running on PORT 5000 10/8/2024, 7:51:38 am
+Database Connected !!!
+GET /loggedIn 10/8/2024, 7:52:09 am
+GET /problems 10/8/2024, 7:52:09 am
+POST /problems/66b6537a6c94c24740a2352d 10/8/2024, 7:57:19 am
+Unlinked : f7b1f89e-6f58-4b46-9640-a25f4e9d7162.cpp
+GET /status/66b6d007fcd11f4b44c8187c 10/8/2024, 8:01:53 am
+GET /loggedIn 10/8/2024, 8:03:05 am
+GET /problems 10/8/2024, 8:03:05 am
+POST /problems/66b6537a6c94c24740a2352d 10/8/2024, 8:03:17 am
+Unlinked : 06c81f9a-d10c-412e-8327-2a114ca585ee.cpp
+GET /status/66b6d16dfcd11f4b44c818c2 10/8/2024, 8:03:18 am
+POST /problems/66b6537a6c94c24740a2352d 10/8/2024, 8:03:34 am
+Unlinked : 68b9c439-7c70-4ab4-b40a-226cd924f67e.cpp
+GET /status/66b6d17efcd11f4b44c818cf 10/8/2024, 8:03:35 am
+POST /problems/66b6537a6c94c24740a2352d 10/8/2024, 8:04:08 am
+Unlinked : 43eaa86c-9fb7-4626-b65f-642871e630a0.cpp
+GET /status/66b6d1a0fcd11f4b44c818dc 10/8/2024, 8:04:09 am
+POST /problems/66b6537a6c94c24740a2352d 10/8/2024, 8:48:43 am
+Unlinked : b20fabaf-be15-4654-8133-fc0395b13e23.cpp
+GET /status/66b6dc13fcd11f4b44c818e9 10/8/2024, 8:48:44 am
+POST /problems/66b6537a6c94c24740a2352d 10/8/2024, 8:48:58 am
+Unlinked : 88107290-7f0f-41ba-a42f-97ef95eacd4a.cpp
+GET /status/66b6dc22fcd11f4b44c818f6 10/8/2024, 8:48:59 am
+GET /problems 10/8/2024, 8:49:34 am
+GET /loggedIn 10/8/2024, 8:49:34 am
+POST /problems/66b6537a6c94c24740a2352d 10/8/2024, 8:49:37 am
+Unlinked : 43e97ee6-d27a-4de3-acae-82ce08bd35c2.cpp
+GET /status/66b6dc49fcd11f4b44c81908 10/8/2024, 8:49:38 am
+In undefined env !
+Redis version greater than or equal to 2.8.18 Required !
+Server running on PORT 5000 10/8/2024, 8:50:32 am
+gcc-oj-container Id : 81d3f59668ffd8af603e5288b9f10cd8804b7a58b87d7cf5b82c122cb5bdd45e
+py-oj-container Id : 72bbcd8d72615786a66ea55131fceabaeb3448fcca080e9655d69e9b752aae84
+js-oj-container Id : 1b07100ba3c09bd2167765ab2ece45f1ea56fcf5bb831edda3ab37e6a151b759
+java-oj-container Id : 8e1a5cffd38ed99cfcb1913289abdfae3a5c28b59cfdd00e2c6f7f97404e0897
+
+All Containers Initialized
+GET /problems 10/8/2024, 8:50:35 am
+GET /loggedIn 10/8/2024, 8:50:35 am
+Database Connected !!!
+POST /problems/66b6537a6c94c24740a2352d 10/8/2024, 8:50:43 am
+GET /status/66b6dc8b077fe257ca4e7857 10/8/2024, 8:50:44 am
+GET /status/66b6dc8b077fe257ca4e7857 10/8/2024, 8:50:45 am
+GET /status/66b6dc8b077fe257ca4e7857 10/8/2024, 8:50:46 am
+Unlinked : edb9e150-5279-4032-b365-fd22a5604bec.cpp
+Unlinked : edb9e150-5279-4032-b365-fd22a5604bec.out
+GET /status/66b6dc8b077fe257ca4e7857 10/8/2024, 8:50:47 am
+GET /loggedIn 10/8/2024, 8:53:09 am
+GET /problems 10/8/2024, 8:53:09 am
+POST /login 10/8/2024, 9:07:44 am
+GET /loggedIn 10/8/2024, 9:07:44 am
+GET /loggedIn 10/8/2024, 9:33:59 am
+GET /problems 10/8/2024, 9:34:00 am
+POST /problems/66b6537a6c94c24740a2352d 10/8/2024, 9:34:07 am
+GET /status/66b6e6b7077fe257ca4e7881 10/8/2024, 9:34:08 am
+GET /status/66b6e6b7077fe257ca4e7881 10/8/2024, 9:34:09 am
+GET /status/66b6e6b7077fe257ca4e7881 10/8/2024, 9:34:10 am
+Unlinked : 24679d06-a968-4c90-9029-1cf864fe251f.cpp
+Unlinked : 24679d06-a968-4c90-9029-1cf864fe251f.out
+GET /status/66b6e6b7077fe257ca4e7881 10/8/2024, 9:34:11 am
+In undefined env !
+Redis version greater than or equal to 2.8.18 Required !
+Server running on PORT 5000 10/8/2024, 10:19:49 am
+Deleted(stopped) : java-oj-container
+
+Deleted(stopped) : gcc-oj-container
+
+Deleted(stopped) : js-oj-container
+
+Deleted(stopped) : py-oj-container
+
+gcc-oj-container Id : a9639592f182e29f01f8d74783d067e26a4c672ff6c4fb65bac296a311a70b30
+py-oj-container Id : 98f00ae5e460dc3f5d5f2a624881ebbd5fd20d4f64fed84c8107c39a10a58356
+js-oj-container Id : b340af4f99524d3954415d7b75094ea3496fe8d16ccb2b283d1e5c4ff3ac7b9d
+java-oj-container Id : bc38f2384626dcc8640ee026cd0aa0620aecef6d62320738fbec65456eb0436a
+
+All Containers Initialized
+Database Connected !!!
+GET /problems 10/8/2024, 10:29:09 am
+GET /loggedIn 10/8/2024, 10:29:09 am
+GET /loggedIn 10/8/2024, 10:35:07 am
+GET /problems 10/8/2024, 10:35:08 am
+GET /loggedIn 10/8/2024, 11:06:17 am
+GET /problems 10/8/2024, 11:06:17 am
+POST /problems/66b6537a6c94c24740a2352d 10/8/2024, 11:06:52 am
+GET /status/66b6fc740d33c1632f6a7be3 10/8/2024, 11:06:54 am
+GET /status/66b6fc740d33c1632f6a7be3 10/8/2024, 11:06:55 am
+GET /status/66b6fc740d33c1632f6a7be3 10/8/2024, 11:06:56 am
+GET /status/66b6fc740d33c1632f6a7be3 10/8/2024, 11:06:57 am
+GET /status/66b6fc740d33c1632f6a7be3 10/8/2024, 11:06:58 am
+GET /status/66b6fc740d33c1632f6a7be3 10/8/2024, 11:06:59 am
+GET /status/66b6fc740d33c1632f6a7be3 10/8/2024, 11:07:00 am
+GET /status/66b6fc740d33c1632f6a7be3 10/8/2024, 11:07:01 am
+GET /status/66b6fc740d33c1632f6a7be3 10/8/2024, 11:07:02 am
+Unlinked : f5c8aa53-364f-4fa0-a33e-543eee529975.cpp
+Unlinked : f5c8aa53-364f-4fa0-a33e-543eee529975.out
+GET /status/66b6fc740d33c1632f6a7be3 10/8/2024, 11:07:03 am
+GET /loggedIn 10/8/2024, 11:15:54 am
+GET /problems 10/8/2024, 11:15:55 am
+GET /problems 10/8/2024, 11:16:03 am
+GET /loggedIn 10/8/2024, 11:16:03 am
+GET /problems 10/8/2024, 11:16:15 am
+GET /loggedIn 10/8/2024, 11:16:15 am
+GET /loggedIn 10/8/2024, 11:16:28 am
+GET /problems 10/8/2024, 11:16:28 am
+GET /loggedIn 10/8/2024, 11:16:34 am
+GET /problems 10/8/2024, 11:16:34 am
+GET /loggedIn 10/8/2024, 11:16:53 am
+GET /problems 10/8/2024, 11:16:53 am
+GET /problems 10/8/2024, 11:21:25 am
+GET /loggedIn 10/8/2024, 11:21:25 am
+GET /problems 10/8/2024, 11:25:59 am
+GET /loggedIn 10/8/2024, 11:25:59 am
+GET /problems 10/8/2024, 11:27:15 am
+GET /loggedIn 10/8/2024, 11:27:15 am
+GET /problems 10/8/2024, 11:29:27 am
+GET /loggedIn 10/8/2024, 11:29:27 am
+GET /loggedIn 10/8/2024, 11:39:07 am
+GET /problems 10/8/2024, 11:39:07 am
+GET /leaderboard 10/8/2024, 11:39:30 am
+GET /problems 10/8/2024, 11:41:53 am
+GET /loggedIn 10/8/2024, 11:41:53 am
+GET /leaderboard 10/8/2024, 11:42:03 am
+GET /problems 10/8/2024, 11:53:47 am
+GET /loggedIn 10/8/2024, 11:53:47 am
+GET /problems 10/8/2024, 11:53:47 am
+GET /loggedIn 10/8/2024, 11:53:47 am
+GET /problems 10/8/2024, 11:53:47 am
+GET /loggedIn 10/8/2024, 11:53:47 am
+GET /loggedIn 10/8/2024, 12:04:09 pm
+GET /problems 10/8/2024, 12:04:09 pm
+GET /problems 10/8/2024, 12:05:52 pm
+GET /loggedIn 10/8/2024, 12:05:52 pm
+GET /loggedIn 10/8/2024, 12:05:52 pm
+GET /problems 10/8/2024, 12:05:52 pm
+GET /leaderboard 10/8/2024, 12:42:50 pm
+GET /leaderboard 10/8/2024, 12:44:53 pm
+GET /logout 10/8/2024, 12:46:16 pm
+GET /loggedIn 10/8/2024, 12:46:16 pm
+POST /login 10/8/2024, 12:46:45 pm
+GET /loggedIn 10/8/2024, 12:46:46 pm
+In undefined env !
+Redis version greater than or equal to 2.8.18 Required !
+Server running on PORT 5000 10/8/2024, 2:35:38 pm
+Deleted(stopped) : js-oj-container
+
+Deleted(stopped) : gcc-oj-container
+
+Deleted(stopped) : java-oj-container
+
+Deleted(stopped) : py-oj-container
+
+Database Connected !!!
+gcc-oj-container Id : 21f7d6057c38c5742fc39e88ef52d1010acedda68580c14cc0164dc4af9319f6
+py-oj-container Id : a52f9da1bdac876ad45698320aec79a52e610ab7fce02bfe846143e45a8c17f1
+js-oj-container Id : 42e0df5adc27bd4d0c09ed0b0b1ae6b70cb3a7ff7a056b07db039e7269f2a382
+java-oj-container Id : 4ac0054ec0ab796524df041ee4f86c6f9603ced01b442f6e866dd59f1061673d
+
+All Containers Initialized
+GET /problems 10/8/2024, 2:35:56 pm
+GET /loggedIn 10/8/2024, 2:35:56 pm
+GET /logout 10/8/2024, 2:36:05 pm
+GET /loggedIn 10/8/2024, 2:36:05 pm
+GET /loggedIn 10/8/2024, 2:48:45 pm
+GET /problems 10/8/2024, 2:48:45 pm
+GET /loggedIn 10/8/2024, 2:50:11 pm
+GET /problems 10/8/2024, 2:50:11 pm
+GET /loggedIn 10/8/2024, 2:51:08 pm
+GET /problems 10/8/2024, 2:51:08 pm
+GET /loggedIn 10/8/2024, 2:51:40 pm
+GET /problems 10/8/2024, 2:51:40 pm
+GET /problems 10/8/2024, 2:57:52 pm
+GET /loggedIn 10/8/2024, 2:57:52 pm
+GET /loggedIn 10/8/2024, 3:03:30 pm
+GET /problems 10/8/2024, 3:03:30 pm
+GET /loggedIn 10/8/2024, 3:14:33 pm
+GET /problems 10/8/2024, 3:14:33 pm
+GET /problems 10/8/2024, 3:23:06 pm
+GET /loggedIn 10/8/2024, 3:23:06 pm
+GET /loggedIn 10/8/2024, 3:30:51 pm
+GET /problems 10/8/2024, 3:30:51 pm
+GET /loggedIn 10/8/2024, 3:31:52 pm
+GET /problems 10/8/2024, 3:31:52 pm
+GET /problems 10/8/2024, 3:37:18 pm
+GET /loggedIn 10/8/2024, 3:37:19 pm
+GET /loggedIn 10/8/2024, 3:37:38 pm
+GET /problems 10/8/2024, 3:37:38 pm
+In undefined env !
+Redis version greater than or equal to 2.8.18 Required !
+Server running on PORT 5000 10/8/2024, 3:51:02 pm
+Deleted(stopped) : gcc-oj-container
+
+Deleted(stopped) : java-oj-container
+
+Deleted(stopped) : js-oj-container
+
+Deleted(stopped) : py-oj-container
+
+gcc-oj-container Id : 7149c2874280ace071bb31f244932629dcbd7f0f7cbf824c27f469ba60525fb4
+py-oj-container Id : 78f11cfd817553e178fa6a4f91b7642db277bd3d57479366822ea673bc2fa6f1
+js-oj-container Id : 81c585e049bba589feae70e5ae6c9afb7fd33bd6f2eae4522c38ed665b9ce14e
+java-oj-container Id : 37886dbb1ce4f57697ef4dfe2f1e2c9a5158574bdd9ca65fc72cf550e0fecce5
+
+All Containers Initialized
+Database Connected !!!
+GET /loggedIn 10/8/2024, 3:51:36 pm
+GET /problems 10/8/2024, 3:51:36 pm
+In undefined env !
+Redis version greater than or equal to 2.8.18 Required !
+Server running on PORT 5000 10/8/2024, 3:54:38 pm
+Deleted(stopped) : java-oj-container
+
+Deleted(stopped) : py-oj-container
+
+Deleted(stopped) : gcc-oj-container
+
+Deleted(stopped) : js-oj-container
+
+gcc-oj-container Id : c3c32ddd9b00795aa8a4be0f0f06799896de62535adc194a3ffa6fc8255c816e
+py-oj-container Id : 89f51dae1e7658dcde05290474bd6e25c3396f7e212fd463965252b56e7ec819
+js-oj-container Id : 77ee1b5ee9dc693fd8804ebfd7ed3eefe668a124c4506f5b876016564710709d
+java-oj-container Id : e4151614a0b2aaab44cb220d648c4d14c112614f2ab7a5ff6e1ac0049d719ee7
+
+All Containers Initialized
+Database Connected !!!
+POST /problems/66b6537a6c94c24740a2352d 10/8/2024, 4:24:34 pm
+GET /status/66b746eaa91770239106adc7 10/8/2024, 4:24:36 pm
+GET /status/66b746eaa91770239106adc7 10/8/2024, 4:24:37 pm
+GET /status/66b746eaa91770239106adc7 10/8/2024, 4:24:38 pm
+Unlinked : 5628938b-d090-4ee7-b26c-48d177ca013f.cpp
+Unlinked : 5628938b-d090-4ee7-b26c-48d177ca013f.out
+GET /status/66b746eaa91770239106adc7 10/8/2024, 4:24:39 pm
+GET /problems 10/8/2024, 4:24:54 pm
+GET /loggedIn 10/8/2024, 4:24:54 pm
+POST /problems/66b6537a6c94c24740a2352d 10/8/2024, 4:25:01 pm
+GET /status/66b74705a91770239106ade4 10/8/2024, 4:25:02 pm
+GET /status/66b74705a91770239106ade4 10/8/2024, 4:25:03 pm
+Unlinked : 3c7f8ec1-0dca-4fbc-bc85-8086dc3d17c6.cpp
+Unlinked : 3c7f8ec1-0dca-4fbc-bc85-8086dc3d17c6.out
+GET /status/66b74705a91770239106ade4 10/8/2024, 4:25:04 pm
+POST /problems/66b6537a6c94c24740a2352d 10/8/2024, 4:37:22 pm
+GET /status/66b749eaa91770239106adf9 10/8/2024, 4:37:24 pm
+GET /status/66b749eaa91770239106adf9 10/8/2024, 4:37:25 pm
+GET /status/66b749eaa91770239106adf9 10/8/2024, 4:37:26 pm
+GET /status/66b749eaa91770239106adf9 10/8/2024, 4:37:27 pm
+GET /status/66b749eaa91770239106adf9 10/8/2024, 4:37:28 pm
+Unlinked : 2487f879-d5f7-4e9c-9f2a-210089847a0b.cpp
+Unlinked : 2487f879-d5f7-4e9c-9f2a-210089847a0b.out
+GET /status/66b749eaa91770239106adf9 10/8/2024, 4:37:29 pm
+GET /problems 10/8/2024, 4:37:36 pm
+GET /loggedIn 10/8/2024, 4:37:36 pm
+GET /problems 10/8/2024, 4:38:25 pm
+GET /loggedIn 10/8/2024, 4:38:25 pm
+GET /loggedIn 10/8/2024, 4:50:40 pm
+GET /problems 10/8/2024, 4:50:40 pm
+GET /loggedIn 10/8/2024, 4:52:11 pm
+GET /problems 10/8/2024, 4:52:11 pm
+GET /loggedIn 10/8/2024, 5:01:40 pm
+GET /problems 10/8/2024, 5:01:40 pm
+GET /loggedIn 10/8/2024, 5:03:17 pm
+GET /problems 10/8/2024, 5:03:17 pm
+GET /problems 10/8/2024, 5:05:18 pm
+GET /loggedIn 10/8/2024, 5:05:18 pm
+GET /loggedIn 10/8/2024, 5:05:19 pm
+GET /problems 10/8/2024, 5:05:19 pm
+GET /problems 10/8/2024, 5:06:05 pm
+GET /loggedIn 10/8/2024, 5:06:05 pm
+GET /problems 10/8/2024, 5:06:18 pm
+GET /loggedIn 10/8/2024, 5:06:18 pm
+GET /loggedIn 10/8/2024, 5:07:15 pm
+GET /problems 10/8/2024, 5:07:15 pm
+GET /loggedIn 10/8/2024, 5:07:49 pm
+GET /problems 10/8/2024, 5:07:49 pm
+GET /loggedIn 10/8/2024, 5:08:41 pm
+GET /problems 10/8/2024, 5:08:41 pm
+GET /loggedIn 10/8/2024, 5:10:02 pm
+GET /problems 10/8/2024, 5:10:02 pm
+GET /loggedIn 10/8/2024, 5:10:09 pm
+GET /problems 10/8/2024, 5:10:09 pm
+GET /loggedIn 10/8/2024, 5:15:22 pm
+GET /problems 10/8/2024, 5:15:22 pm
+GET /problems 10/8/2024, 5:15:28 pm
+GET /loggedIn 10/8/2024, 5:15:28 pm
+GET /problems 10/8/2024, 5:15:43 pm
+GET /loggedIn 10/8/2024, 5:15:43 pm
+GET /loggedIn 10/8/2024, 5:25:46 pm
+GET /problems 10/8/2024, 5:25:46 pm
+POST /problems/66b6537a6c94c24740a2352d 10/8/2024, 5:26:20 pm
+GET /status/66b75564a91770239106ae76 10/8/2024, 5:26:21 pm
+GET /status/66b75564a91770239106ae76 10/8/2024, 5:26:22 pm
+GET /status/66b75564a91770239106ae76 10/8/2024, 5:26:23 pm
+GET /status/66b75564a91770239106ae76 10/8/2024, 5:26:24 pm
+GET /status/66b75564a91770239106ae76 10/8/2024, 5:26:25 pm
+Unlinked : b94e70ab-8fad-4e37-87a7-90cf7c4419e0.cpp
+Unlinked : b94e70ab-8fad-4e37-87a7-90cf7c4419e0.out
+GET /status/66b75564a91770239106ae76 10/8/2024, 5:26:26 pm
+POST /problems/66b6537a6c94c24740a2352d 10/8/2024, 5:28:50 pm
+GET /status/66b755faa91770239106ae94 10/8/2024, 5:28:51 pm
+GET /status/66b755faa91770239106ae94 10/8/2024, 5:28:52 pm
+GET /status/66b755faa91770239106ae94 10/8/2024, 5:28:53 pm
+Unlinked : 6048c878-919d-4b55-bc21-ab669a81a269.cpp
+Unlinked : 6048c878-919d-4b55-bc21-ab669a81a269.out
+GET /status/66b755faa91770239106ae94 10/8/2024, 5:28:54 pm
+GET /loggedIn 10/8/2024, 5:37:44 pm
+GET /problems 10/8/2024, 5:37:44 pm
+In undefined env !
+Redis version greater than or equal to 2.8.18 Required !
+Server running on PORT 5000 10/8/2024, 5:38:00 pm
+Deleted(stopped) : js-oj-container
+
+Deleted(stopped) : py-oj-container
+
+Deleted(stopped) : gcc-oj-container
+
+Deleted(stopped) : java-oj-container
+
+gcc-oj-container Id : c274d5930a9f7542cec4777e538bbe87d1b5c5b076cc4162afc8178c8d06634d
+py-oj-container Id : 000c037d068abc3589d76c55d8daee5048c6a055ce1e4c5226fa44ffbdf64018
+js-oj-container Id : 58a6b44216f0391b3d644e21442cd76e96a5c3c92b06dff8f0de9d39727b3aaa
+java-oj-container Id : 1ddd89ad591498baebfb1adb6206e8d7a2665b0460591b5338ad2c635c10cef9
+
+All Containers Initialized
+Database Connected !!!
+GET /problems 10/8/2024, 5:38:12 pm
+GET /loggedIn 10/8/2024, 5:38:12 pm
+GET /loggedIn 10/8/2024, 5:40:56 pm
+GET /problems 10/8/2024, 5:40:56 pm
+GET /loggedIn 10/8/2024, 5:41:35 pm
+GET /problems 10/8/2024, 5:41:35 pm
+GET /problems 10/8/2024, 5:42:01 pm
+GET /loggedIn 10/8/2024, 5:42:01 pm
+GET /loggedIn 10/8/2024, 5:49:48 pm
+GET /problems 10/8/2024, 5:49:48 pm
+POST /codeExecutor 10/8/2024, 5:49:51 pm
+Unlinked : a5493fef-317d-4dcf-9dae-0e109b65ea84.cpp
+GET /status/66b75ae75497632b9b106130 10/8/2024, 5:49:52 pm
+POST /codeExecutor 10/8/2024, 5:51:45 pm
+Unlinked : d0354faf-07aa-44b9-a873-218fe4190e87.cpp
+GET /status/66b75b595497632b9b10613b 10/8/2024, 5:51:46 pm
+POST /codeExecutor 10/8/2024, 5:52:44 pm
+Unlinked : cf4f9250-a1ee-49db-aa3e-1af5774cad4e.cpp
+GET /status/66b75b945497632b9b106146 10/8/2024, 5:52:45 pm
+POST /codeExecutor 10/8/2024, 5:59:53 pm
+Unlinked : 516c2396-a84d-4363-bd60-ad2c78085959.cpp
+GET /status/66b75d415497632b9b106151 10/8/2024, 5:59:54 pm
+POST /codeExecutor 10/8/2024, 6:01:47 pm
+Unlinked : 26a1c2db-f317-4621-bb42-bd0d6718d849.cpp
+GET /status/66b75db35497632b9b10615c 10/8/2024, 6:01:48 pm
+In undefined env !
+Redis version greater than or equal to 2.8.18 Required !
+Server running on PORT 5000 10/8/2024, 6:03:13 pm
+gcc-oj-container Id : d9f8b520f4a29888d28ac32f220068270cd1262b4eb5f729855b827bc89ad9fc
+py-oj-container Id : b542e555dcae171ec87c9c1c9f9ba1ab1ad577af6a424382ed7cd0fdc4fc232b
+js-oj-container Id : 815a73e2285e80645b6fe7c0d2dc60c8e935dc1464974957e8518a9bc8cb7da1
+java-oj-container Id : ce2ef2bfa690e32fb9a583b7150d9f0aead2247c284a01927733b36829fca0e6
+
+All Containers Initialized
+Database Connected !!!
+POST /codeExecutor 10/8/2024, 6:03:36 pm
+GET /status/66b75e20291d0987575e5b99 10/8/2024, 6:03:37 pm
+GET /status/66b75e20291d0987575e5b99 10/8/2024, 6:03:38 pm
+GET /status/66b75e20291d0987575e5b99 10/8/2024, 6:03:39 pm
+Unlinked : a58d6293-8eb6-4b53-afcb-7afa70fd0d94.cpp
+Unlinked : a58d6293-8eb6-4b53-afcb-7afa70fd0d94.out
+GET /status/66b75e20291d0987575e5b99 10/8/2024, 6:03:40 pm
+POST /codeExecutor 10/8/2024, 6:05:05 pm
+GET /status/66b75e79291d0987575e5baf 10/8/2024, 6:05:06 pm
+GET /status/66b75e79291d0987575e5baf 10/8/2024, 6:05:07 pm
+Unlinked : a355f40f-1e69-454e-bc28-3044453d910a.cpp
+GET /status/66b75e79291d0987575e5baf 10/8/2024, 6:05:08 pm
+POST /codeExecutor 10/8/2024, 6:06:34 pm
+GET /status/66b75ed2291d0987575e5bc0 10/8/2024, 6:06:35 pm
+GET /status/66b75ed2291d0987575e5bc0 10/8/2024, 6:06:36 pm
+Unlinked : 69714247-8db6-46ef-ac94-5d32370c8798.cpp
+GET /status/66b75ed2291d0987575e5bc0 10/8/2024, 6:06:37 pm
+POST /codeExecutor 10/8/2024, 6:06:44 pm
+GET /status/66b75edc291d0987575e5bd1 10/8/2024, 6:06:45 pm
+GET /status/66b75edc291d0987575e5bd1 10/8/2024, 6:06:46 pm
+GET /status/66b75edc291d0987575e5bd1 10/8/2024, 6:06:47 pm
+GET /status/66b75edc291d0987575e5bd1 10/8/2024, 6:06:48 pm
+GET /status/66b75edc291d0987575e5bd1 10/8/2024, 6:06:49 pm
+GET /status/66b75edc291d0987575e5bd1 10/8/2024, 6:06:50 pm
+GET /status/66b75edc291d0987575e5bd1 10/8/2024, 6:06:51 pm
+GET /status/66b75edc291d0987575e5bd1 10/8/2024, 6:06:52 pm
+GET /status/66b75edc291d0987575e5bd1 10/8/2024, 6:06:53 pm
+GET /status/66b75edc291d0987575e5bd1 10/8/2024, 6:06:54 pm
+GET /status/66b75edc291d0987575e5bd1 10/8/2024, 6:06:55 pm
+GET /status/66b75edc291d0987575e5bd1 10/8/2024, 6:06:56 pm
+GET /status/66b75edc291d0987575e5bd1 10/8/2024, 6:06:57 pm
+GET /status/66b75edc291d0987575e5bd1 10/8/2024, 6:06:58 pm
+GET /status/66b75edc291d0987575e5bd1 10/8/2024, 6:06:59 pm
+GET /status/66b75edc291d0987575e5bd1 10/8/2024, 6:07:00 pm
+GET /status/66b75edc291d0987575e5bd1 10/8/2024, 6:07:01 pm
+GET /status/66b75edc291d0987575e5bd1 10/8/2024, 6:07:02 pm
+GET /status/66b75edc291d0987575e5bd1 10/8/2024, 6:07:03 pm
+GET /status/66b75edc291d0987575e5bd1 10/8/2024, 6:07:04 pm
+GET /status/66b75edc291d0987575e5bd1 10/8/2024, 6:07:05 pm
+GET /status/66b75edc291d0987575e5bd1 10/8/2024, 6:07:06 pm
+GET /status/66b75edc291d0987575e5bd1 10/8/2024, 6:07:07 pm
+GET /status/66b75edc291d0987575e5bd1 10/8/2024, 6:07:08 pm
+GET /status/66b75edc291d0987575e5bd1 10/8/2024, 6:07:09 pm
+GET /status/66b75edc291d0987575e5bd1 10/8/2024, 6:07:10 pm
+GET /status/66b75edc291d0987575e5bd1 10/8/2024, 6:07:11 pm
+GET /status/66b75edc291d0987575e5bd1 10/8/2024, 6:07:12 pm
+GET /status/66b75edc291d0987575e5bd1 10/8/2024, 6:07:13 pm
+GET /status/66b75edc291d0987575e5bd1 10/8/2024, 6:07:14 pm
+GET /status/66b75edc291d0987575e5bd1 10/8/2024, 6:07:15 pm
+GET /status/66b75edc291d0987575e5bd1 10/8/2024, 6:07:16 pm
+GET /status/66b75edc291d0987575e5bd1 10/8/2024, 6:07:17 pm
+GET /status/66b75edc291d0987575e5bd1 10/8/2024, 6:07:18 pm
+GET /status/66b75edc291d0987575e5bd1 10/8/2024, 6:07:19 pm
+GET /status/66b75edc291d0987575e5bd1 10/8/2024, 6:07:20 pm
+GET /status/66b75edc291d0987575e5bd1 10/8/2024, 6:07:21 pm
+GET /status/66b75edc291d0987575e5bd1 10/8/2024, 6:07:22 pm
+GET /status/66b75edc291d0987575e5bd1 10/8/2024, 6:07:23 pm
+GET /status/66b75edc291d0987575e5bd1 10/8/2024, 6:07:24 pm
+GET /status/66b75edc291d0987575e5bd1 10/8/2024, 6:07:25 pm
+GET /status/66b75edc291d0987575e5bd1 10/8/2024, 6:07:26 pm
+GET /status/66b75edc291d0987575e5bd1 10/8/2024, 6:07:27 pm
+GET /status/66b75edc291d0987575e5bd1 10/8/2024, 6:07:28 pm
+GET /status/66b75edc291d0987575e5bd1 10/8/2024, 6:07:29 pm
+GET /status/66b75edc291d0987575e5bd1 10/8/2024, 6:07:30 pm
+GET /status/66b75edc291d0987575e5bd1 10/8/2024, 6:07:31 pm
+GET /status/66b75edc291d0987575e5bd1 10/8/2024, 6:07:32 pm
+GET /status/66b75edc291d0987575e5bd1 10/8/2024, 6:07:33 pm
+GET /status/66b75edc291d0987575e5bd1 10/8/2024, 6:07:34 pm
+GET /status/66b75edc291d0987575e5bd1 10/8/2024, 6:07:35 pm
+GET /status/66b75edc291d0987575e5bd1 10/8/2024, 6:07:36 pm
+GET /loggedIn 10/8/2024, 6:07:37 pm
+GET /problems 10/8/2024, 6:07:37 pm
+POST /codeExecutor 10/8/2024, 6:08:08 pm
+GET /status/66b75f30291d0987575e5c76 10/8/2024, 6:08:09 pm
+GET /status/66b75f30291d0987575e5c76 10/8/2024, 6:08:10 pm
+Unlinked : aa596a98-7eff-4783-ad0a-1b3d547de346.cpp
+Unlinked : aa596a98-7eff-4783-ad0a-1b3d547de346.out
+GET /status/66b75f30291d0987575e5c76 10/8/2024, 6:08:11 pm
+POST /codeExecutor 10/8/2024, 6:08:32 pm
+GET /status/66b75f48291d0987575e5c89 10/8/2024, 6:08:33 pm
+GET /status/66b75f48291d0987575e5c89 10/8/2024, 6:08:34 pm
+Unlinked : 0d8b6412-4489-45bb-9b5a-bab99370782c.cpp
+Unlinked : 0d8b6412-4489-45bb-9b5a-bab99370782c.out
+GET /status/66b75f48291d0987575e5c89 10/8/2024, 6:08:35 pm
+GET /loggedIn 10/8/2024, 6:10:23 pm
+GET /problems 10/8/2024, 6:10:23 pm
+POST /codeExecutor 10/8/2024, 6:15:39 pm
+GET /status/66b760f3291d0987575e5ca1 10/8/2024, 6:15:40 pm
+GET /status/66b760f3291d0987575e5ca1 10/8/2024, 6:15:41 pm
+GET /status/66b760f3291d0987575e5ca1 10/8/2024, 6:15:42 pm
+GET /status/66b760f3291d0987575e5ca1 10/8/2024, 6:15:43 pm
+GET /status/66b760f3291d0987575e5ca1 10/8/2024, 6:15:44 pm
+GET /status/66b760f3291d0987575e5ca1 10/8/2024, 6:15:45 pm
+Unlinked : 2c61d6d3-53a5-44e2-8943-1e9f4f94484a.cpp
+Unlinked : 2c61d6d3-53a5-44e2-8943-1e9f4f94484a.out
+GET /status/66b760f3291d0987575e5ca1 10/8/2024, 6:15:46 pm
+GET /loggedIn 11/8/2024, 12:09:09 am
+GET /problems 11/8/2024, 12:09:09 am
+In undefined env !
+Redis version greater than or equal to 2.8.18 Required !
+Server running on PORT 5000 11/8/2024, 10:03:51 am
+Database Connected !!!
+GET /loggedIn 11/8/2024, 10:04:35 am
+GET /problems 11/8/2024, 10:04:35 am
+GET /leaderboard 11/8/2024, 10:04:45 am
+GET /loggedIn 11/8/2024, 10:07:16 am
+GET /problems 11/8/2024, 10:07:16 am
+POST /problems/66b6537a6c94c24740a2352d 11/8/2024, 10:07:22 am
+POST /problems/66b6537a6c94c24740a2352d 11/8/2024, 10:07:50 am
+GET /problems 11/8/2024, 10:08:49 am
+GET /loggedIn 11/8/2024, 10:08:49 am
+POST /problems/66b6537a6c94c24740a2352d 11/8/2024, 10:08:54 am
+In undefined env !
+Redis version greater than or equal to 2.8.18 Required !
+Server running on PORT 5000 11/8/2024, 10:10:25 am
+gcc-oj-container Id : b2a107e77f348716248c51bbea82193898b8ede43287c1f1534eb1cd28b7e10e
+py-oj-container Id : eccbc686088f0f733b955be226ca6ecf2946eaf67d02fab1ae1f09f25d04904a
+js-oj-container Id : 88ccc418b2b613e983e33b933edca723ea1499bc14b40abb4dd783d9d91ea05d
+java-oj-container Id : 00e7de4fa5fddf249787905867ec83677683bc07d63d2087ef50e42a239776fb
+
+All Containers Initialized
+Database Connected !!!
+GET /loggedIn 11/8/2024, 10:10:44 am
+GET /problems 11/8/2024, 10:10:44 am
+POST /problems/66b6537a6c94c24740a2352d 11/8/2024, 10:10:52 am
+GET /status/66b840d4b4464bd69bbec929 11/8/2024, 10:10:54 am
+GET /status/66b840d4b4464bd69bbec929 11/8/2024, 10:10:55 am
+Unlinked : 4a840c6f-fba4-4b19-a729-861590132ad5.cpp
+Unlinked : 4a840c6f-fba4-4b19-a729-861590132ad5.out
+GET /status/66b840d4b4464bd69bbec929 11/8/2024, 10:10:56 am
+GET /problems 11/8/2024, 10:11:32 am
+GET /loggedIn 11/8/2024, 10:11:32 am
+POST /problems/66b6537a6c94c24740a2352d 11/8/2024, 10:11:42 am
+GET /status/66b84106b4464bd69bbec943 11/8/2024, 10:11:43 am
+GET /status/66b84106b4464bd69bbec943 11/8/2024, 10:11:44 am
+Unlinked : c6172518-e520-4341-83da-d3b7cf2d1b16.cpp
+Unlinked : c6172518-e520-4341-83da-d3b7cf2d1b16.out
+GET /status/66b84106b4464bd69bbec943 11/8/2024, 10:11:45 am
+GET /problems 11/8/2024, 10:12:16 am
+GET /loggedIn 11/8/2024, 10:12:16 am
+GET /problems 11/8/2024, 10:20:33 am
+GET /loggedIn 11/8/2024, 10:20:33 am
+GET /loggedIn 11/8/2024, 10:23:31 am
+GET /problems 11/8/2024, 10:23:31 am
+GET /problems 11/8/2024, 10:24:38 am
+GET /loggedIn 11/8/2024, 10:24:38 am

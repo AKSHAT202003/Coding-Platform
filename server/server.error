@@ -1,0 +1,1514 @@
+Error: secretOrPrivateKey must have a value
+    at module.exports [as sign] (D:\Online-Judge-Project-master\Online-Judge-Project-master\server\node_modules\jsonwebtoken\sign.js:107:20)
+    at registerController (D:\Online-Judge-Project-master\Online-Judge-Project-master\server\controllers\user.js:41:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) 9/8/2024, 6:35:12 pm
+Docker Error:  js-oj-container Docker Error : {"msg":"on docker error","error":null,"stderr":"Unable to find image 'node:16.17.0-bullseye-slim' locally\n16.17.0-bullseye-slim: Pulling from library/node\n31b3f1ad4ce1: Pulling fs layer\nc973db49e5a0: Pulling fs layer\n31b3f1ad4ce1: Waiting\nc973db49e5a0: Waiting\n69b0052faebf: Pulling fs layer\nc1e0dc661a4e: Pulling fs layer\n69b0052faebf: Waiting\n38b58f98de7a: Pulling fs layer\nc1e0dc661a4e: Waiting\n38b58f98de7a: Waiting\n31b3f1ad4ce1: Verifying Checksum\n31b3f1ad4ce1: Download complete\nc973db49e5a0: Verifying Checksum\nc973db49e5a0: Download complete\n31b3f1ad4ce1: Pull complete\nc973db49e5a0: Pull complete\n69b0052faebf: Download complete\nc1e0dc661a4e: Verifying Checksum\nc1e0dc661a4e: Download complete\n69b0052faebf: Pull complete\nc1e0dc661a4e: Pull complete\n38b58f98de7a: Download complete\n38b58f98de7a: Pull complete\nDigest: sha256:59812c19504546fc66b0b26722bf0754ee48b74f9abc5ed9c3f251fc45d86099\nStatus: Downloaded newer image for node:16.17.0-bullseye-slim\n"}
+9/8/2024, 6:35:14 pm
+Error without msg in bull.process Error: Cannot find module './testcases/function twoSum(nums, target) { ... }'
+Require stack:
+- D:\Online-Judge-Project-master\Online-Judge-Project-master\server\CodeExecuter\codeExecutor_dockerv.js
+- D:\Online-Judge-Project-master\Online-Judge-Project-master\server\CodeExecuter\queryQueue.js
+- D:\Online-Judge-Project-master\Online-Judge-Project-master\server\controllers\explore.js
+- D:\Online-Judge-Project-master\Online-Judge-Project-master\server\routes\explore.js
+- D:\Online-Judge-Project-master\Online-Judge-Project-master\server\index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Module._load (node:internal/modules/cjs/loader:985:27)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18)
+    at execCodeAgainstTestcases (D:\Online-Judge-Project-master\Online-Judge-Project-master\server\CodeExecuter\codeExecutor_dockerv.js:94:31)
+    at processAgainstTestcases (D:\Online-Judge-Project-master\Online-Judge-Project-master\server\CodeExecuter\queryQueue.js:32:26)
+    at Queue.<anonymous> (D:\Online-Judge-Project-master\Online-Judge-Project-master\server\CodeExecuter\queryQueue.js:52:48)
+    at handlers.<computed> (D:\Online-Judge-Project-master\Online-Judge-Project-master\server\node_modules\bull\lib\queue.js:701:42)
+    at Queue.processJob (D:\Online-Judge-Project-master\Online-Judge-Project-master\server\node_modules\bull\lib\queue.js:1162:22)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'D:\\Online-Judge-Project-master\\Online-Judge-Project-master\\server\\CodeExecuter\\codeExecutor_dockerv.js',
+    'D:\\Online-Judge-Project-master\\Online-Judge-Project-master\\server\\CodeExecuter\\queryQueue.js',
+    'D:\\Online-Judge-Project-master\\Online-Judge-Project-master\\server\\controllers\\explore.js',
+    'D:\\Online-Judge-Project-master\\Online-Judge-Project-master\\server\\routes\\explore.js',
+    'D:\\Online-Judge-Project-master\\Online-Judge-Project-master\\server\\index.js'
+  ]
+} 9/8/2024, 10:26:09 pm
+Error without msg in bull.process Error: Cannot find module './testcases/function twoSum(nums, target) { ... }'
+Require stack:
+- D:\Online-Judge-Project-master\Online-Judge-Project-master\server\CodeExecuter\codeExecutor_dockerv.js
+- D:\Online-Judge-Project-master\Online-Judge-Project-master\server\CodeExecuter\queryQueue.js
+- D:\Online-Judge-Project-master\Online-Judge-Project-master\server\controllers\explore.js
+- D:\Online-Judge-Project-master\Online-Judge-Project-master\server\routes\explore.js
+- D:\Online-Judge-Project-master\Online-Judge-Project-master\server\index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Module._load (node:internal/modules/cjs/loader:985:27)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18)
+    at execCodeAgainstTestcases (D:\Online-Judge-Project-master\Online-Judge-Project-master\server\CodeExecuter\codeExecutor_dockerv.js:94:31)
+    at processAgainstTestcases (D:\Online-Judge-Project-master\Online-Judge-Project-master\server\CodeExecuter\queryQueue.js:32:26)
+    at Queue.<anonymous> (D:\Online-Judge-Project-master\Online-Judge-Project-master\server\CodeExecuter\queryQueue.js:52:48)
+    at handlers.<computed> (D:\Online-Judge-Project-master\Online-Judge-Project-master\server\node_modules\bull\lib\queue.js:701:42)
+    at Queue.processJob (D:\Online-Judge-Project-master\Online-Judge-Project-master\server\node_modules\bull\lib\queue.js:1162:22)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'D:\\Online-Judge-Project-master\\Online-Judge-Project-master\\server\\CodeExecuter\\codeExecutor_dockerv.js',
+    'D:\\Online-Judge-Project-master\\Online-Judge-Project-master\\server\\CodeExecuter\\queryQueue.js',
+    'D:\\Online-Judge-Project-master\\Online-Judge-Project-master\\server\\controllers\\explore.js',
+    'D:\\Online-Judge-Project-master\\Online-Judge-Project-master\\server\\routes\\explore.js',
+    'D:\\Online-Judge-Project-master\\Online-Judge-Project-master\\server\\index.js'
+  ]
+} 9/8/2024, 10:26:42 pm
+Error without msg in bull.process Error: Cannot find module './testcases/function twoSum(nums, target) { ... }'
+Require stack:
+- D:\Online-Judge-Project-master\Online-Judge-Project-master\server\CodeExecuter\codeExecutor_dockerv.js
+- D:\Online-Judge-Project-master\Online-Judge-Project-master\server\CodeExecuter\queryQueue.js
+- D:\Online-Judge-Project-master\Online-Judge-Project-master\server\controllers\explore.js
+- D:\Online-Judge-Project-master\Online-Judge-Project-master\server\routes\explore.js
+- D:\Online-Judge-Project-master\Online-Judge-Project-master\server\index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Module._load (node:internal/modules/cjs/loader:985:27)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18)
+    at execCodeAgainstTestcases (D:\Online-Judge-Project-master\Online-Judge-Project-master\server\CodeExecuter\codeExecutor_dockerv.js:94:31)
+    at processAgainstTestcases (D:\Online-Judge-Project-master\Online-Judge-Project-master\server\CodeExecuter\queryQueue.js:32:26)
+    at Queue.<anonymous> (D:\Online-Judge-Project-master\Online-Judge-Project-master\server\CodeExecuter\queryQueue.js:52:48)
+    at handlers.<computed> (D:\Online-Judge-Project-master\Online-Judge-Project-master\server\node_modules\bull\lib\queue.js:701:42)
+    at Queue.processJob (D:\Online-Judge-Project-master\Online-Judge-Project-master\server\node_modules\bull\lib\queue.js:1162:22)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'D:\\Online-Judge-Project-master\\Online-Judge-Project-master\\server\\CodeExecuter\\codeExecutor_dockerv.js',
+    'D:\\Online-Judge-Project-master\\Online-Judge-Project-master\\server\\CodeExecuter\\queryQueue.js',
+    'D:\\Online-Judge-Project-master\\Online-Judge-Project-master\\server\\controllers\\explore.js',
+    'D:\\Online-Judge-Project-master\\Online-Judge-Project-master\\server\\routes\\explore.js',
+    'D:\\Online-Judge-Project-master\\Online-Judge-Project-master\\server\\index.js'
+  ]
+} 9/8/2024, 10:27:34 pm
+Error without msg in bull.process Error: Cannot find module './testcases/function twoSum(nums, target) { ... }'
+Require stack:
+- D:\Online-Judge-Project-master\Online-Judge-Project-master\server\CodeExecuter\codeExecutor_dockerv.js
+- D:\Online-Judge-Project-master\Online-Judge-Project-master\server\CodeExecuter\queryQueue.js
+- D:\Online-Judge-Project-master\Online-Judge-Project-master\server\controllers\explore.js
+- D:\Online-Judge-Project-master\Online-Judge-Project-master\server\routes\explore.js
+- D:\Online-Judge-Project-master\Online-Judge-Project-master\server\index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Module._load (node:internal/modules/cjs/loader:985:27)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18)
+    at execCodeAgainstTestcases (D:\Online-Judge-Project-master\Online-Judge-Project-master\server\CodeExecuter\codeExecutor_dockerv.js:94:31)
+    at processAgainstTestcases (D:\Online-Judge-Project-master\Online-Judge-Project-master\server\CodeExecuter\queryQueue.js:32:26)
+    at Queue.<anonymous> (D:\Online-Judge-Project-master\Online-Judge-Project-master\server\CodeExecuter\queryQueue.js:52:48)
+    at handlers.<computed> (D:\Online-Judge-Project-master\Online-Judge-Project-master\server\node_modules\bull\lib\queue.js:701:42)
+    at Queue.processJob (D:\Online-Judge-Project-master\Online-Judge-Project-master\server\node_modules\bull\lib\queue.js:1162:22)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'D:\\Online-Judge-Project-master\\Online-Judge-Project-master\\server\\CodeExecuter\\codeExecutor_dockerv.js',
+    'D:\\Online-Judge-Project-master\\Online-Judge-Project-master\\server\\CodeExecuter\\queryQueue.js',
+    'D:\\Online-Judge-Project-master\\Online-Judge-Project-master\\server\\controllers\\explore.js',
+    'D:\\Online-Judge-Project-master\\Online-Judge-Project-master\\server\\routes\\explore.js',
+    'D:\\Online-Judge-Project-master\\Online-Judge-Project-master\\server\\index.js'
+  ]
+} 9/8/2024, 10:29:51 pm
+Error without msg in bull.process Error: Cannot find module './testcases/function twoSum(nums, target) { ... }'
+Require stack:
+- D:\Online-Judge-Project-master\Online-Judge-Project-master\server\CodeExecuter\codeExecutor_dockerv.js
+- D:\Online-Judge-Project-master\Online-Judge-Project-master\server\CodeExecuter\queryQueue.js
+- D:\Online-Judge-Project-master\Online-Judge-Project-master\server\controllers\explore.js
+- D:\Online-Judge-Project-master\Online-Judge-Project-master\server\routes\explore.js
+- D:\Online-Judge-Project-master\Online-Judge-Project-master\server\index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Module._load (node:internal/modules/cjs/loader:985:27)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18)
+    at execCodeAgainstTestcases (D:\Online-Judge-Project-master\Online-Judge-Project-master\server\CodeExecuter\codeExecutor_dockerv.js:94:31)
+    at processAgainstTestcases (D:\Online-Judge-Project-master\Online-Judge-Project-master\server\CodeExecuter\queryQueue.js:32:26)
+    at Queue.<anonymous> (D:\Online-Judge-Project-master\Online-Judge-Project-master\server\CodeExecuter\queryQueue.js:52:48)
+    at handlers.<computed> (D:\Online-Judge-Project-master\Online-Judge-Project-master\server\node_modules\bull\lib\queue.js:701:42)
+    at Queue.processJob (D:\Online-Judge-Project-master\Online-Judge-Project-master\server\node_modules\bull\lib\queue.js:1162:22)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'D:\\Online-Judge-Project-master\\Online-Judge-Project-master\\server\\CodeExecuter\\codeExecutor_dockerv.js',
+    'D:\\Online-Judge-Project-master\\Online-Judge-Project-master\\server\\CodeExecuter\\queryQueue.js',
+    'D:\\Online-Judge-Project-master\\Online-Judge-Project-master\\server\\controllers\\explore.js',
+    'D:\\Online-Judge-Project-master\\Online-Judge-Project-master\\server\\routes\\explore.js',
+    'D:\\Online-Judge-Project-master\\Online-Judge-Project-master\\server\\index.js'
+  ]
+} 9/8/2024, 10:29:54 pm
+Error without msg in bull.process Error: Cannot find module './testcases/function twoSum(nums, target) { ... }'
+Require stack:
+- D:\Online-Judge-Project-master\Online-Judge-Project-master\server\CodeExecuter\codeExecutor_dockerv.js
+- D:\Online-Judge-Project-master\Online-Judge-Project-master\server\CodeExecuter\queryQueue.js
+- D:\Online-Judge-Project-master\Online-Judge-Project-master\server\controllers\explore.js
+- D:\Online-Judge-Project-master\Online-Judge-Project-master\server\routes\explore.js
+- D:\Online-Judge-Project-master\Online-Judge-Project-master\server\index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Module._load (node:internal/modules/cjs/loader:985:27)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18)
+    at execCodeAgainstTestcases (D:\Online-Judge-Project-master\Online-Judge-Project-master\server\CodeExecuter\codeExecutor_dockerv.js:94:31)
+    at processAgainstTestcases (D:\Online-Judge-Project-master\Online-Judge-Project-master\server\CodeExecuter\queryQueue.js:32:26)
+    at Queue.<anonymous> (D:\Online-Judge-Project-master\Online-Judge-Project-master\server\CodeExecuter\queryQueue.js:52:48)
+    at handlers.<computed> (D:\Online-Judge-Project-master\Online-Judge-Project-master\server\node_modules\bull\lib\queue.js:701:42)
+    at Queue.processJob (D:\Online-Judge-Project-master\Online-Judge-Project-master\server\node_modules\bull\lib\queue.js:1162:22)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'D:\\Online-Judge-Project-master\\Online-Judge-Project-master\\server\\CodeExecuter\\codeExecutor_dockerv.js',
+    'D:\\Online-Judge-Project-master\\Online-Judge-Project-master\\server\\CodeExecuter\\queryQueue.js',
+    'D:\\Online-Judge-Project-master\\Online-Judge-Project-master\\server\\controllers\\explore.js',
+    'D:\\Online-Judge-Project-master\\Online-Judge-Project-master\\server\\routes\\explore.js',
+    'D:\\Online-Judge-Project-master\\Online-Judge-Project-master\\server\\index.js'
+  ]
+} 9/8/2024, 10:30:14 pm
+bull/redis failed undefined EBUSY: resource busy or locked, unlink 'D:\Online-Judge-Project-master\Online-Judge-Project-master\server\CodeExecuter\codeFiles\76a284ef-11d8-4638-a45b-847971c4fe0b.cpp' 9/8/2024, 10:30:14 pm
+Error without msg in bull.process Error: Cannot find module './testcases/function twoSum(nums, target) { ... }'
+Require stack:
+- D:\Online-Judge-Project-master\Online-Judge-Project-master\server\CodeExecuter\codeExecutor_dockerv.js
+- D:\Online-Judge-Project-master\Online-Judge-Project-master\server\CodeExecuter\queryQueue.js
+- D:\Online-Judge-Project-master\Online-Judge-Project-master\server\controllers\explore.js
+- D:\Online-Judge-Project-master\Online-Judge-Project-master\server\routes\explore.js
+- D:\Online-Judge-Project-master\Online-Judge-Project-master\server\index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Module._load (node:internal/modules/cjs/loader:985:27)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18)
+    at execCodeAgainstTestcases (D:\Online-Judge-Project-master\Online-Judge-Project-master\server\CodeExecuter\codeExecutor_dockerv.js:94:31)
+    at processAgainstTestcases (D:\Online-Judge-Project-master\Online-Judge-Project-master\server\CodeExecuter\queryQueue.js:32:26)
+    at Queue.<anonymous> (D:\Online-Judge-Project-master\Online-Judge-Project-master\server\CodeExecuter\queryQueue.js:52:48)
+    at handlers.<computed> (D:\Online-Judge-Project-master\Online-Judge-Project-master\server\node_modules\bull\lib\queue.js:701:42)
+    at Queue.processJob (D:\Online-Judge-Project-master\Online-Judge-Project-master\server\node_modules\bull\lib\queue.js:1162:22)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'D:\\Online-Judge-Project-master\\Online-Judge-Project-master\\server\\CodeExecuter\\codeExecutor_dockerv.js',
+    'D:\\Online-Judge-Project-master\\Online-Judge-Project-master\\server\\CodeExecuter\\queryQueue.js',
+    'D:\\Online-Judge-Project-master\\Online-Judge-Project-master\\server\\controllers\\explore.js',
+    'D:\\Online-Judge-Project-master\\Online-Judge-Project-master\\server\\routes\\explore.js',
+    'D:\\Online-Judge-Project-master\\Online-Judge-Project-master\\server\\index.js'
+  ]
+} 9/8/2024, 10:33:50 pm
+Error without msg in bull.process Error: Cannot find module './testcases/function twoSum(nums, target) { ... }'
+Require stack:
+- D:\Online-Judge-Project-master\Online-Judge-Project-master\server\CodeExecuter\codeExecutor_dockerv.js
+- D:\Online-Judge-Project-master\Online-Judge-Project-master\server\CodeExecuter\queryQueue.js
+- D:\Online-Judge-Project-master\Online-Judge-Project-master\server\controllers\explore.js
+- D:\Online-Judge-Project-master\Online-Judge-Project-master\server\routes\explore.js
+- D:\Online-Judge-Project-master\Online-Judge-Project-master\server\index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Module._load (node:internal/modules/cjs/loader:985:27)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18)
+    at execCodeAgainstTestcases (D:\Online-Judge-Project-master\Online-Judge-Project-master\server\CodeExecuter\codeExecutor_dockerv.js:94:31)
+    at processAgainstTestcases (D:\Online-Judge-Project-master\Online-Judge-Project-master\server\CodeExecuter\queryQueue.js:32:26)
+    at Queue.<anonymous> (D:\Online-Judge-Project-master\Online-Judge-Project-master\server\CodeExecuter\queryQueue.js:52:48)
+    at handlers.<computed> (D:\Online-Judge-Project-master\Online-Judge-Project-master\server\node_modules\bull\lib\queue.js:701:42)
+    at Queue.processJob (D:\Online-Judge-Project-master\Online-Judge-Project-master\server\node_modules\bull\lib\queue.js:1162:22)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'D:\\Online-Judge-Project-master\\Online-Judge-Project-master\\server\\CodeExecuter\\codeExecutor_dockerv.js',
+    'D:\\Online-Judge-Project-master\\Online-Judge-Project-master\\server\\CodeExecuter\\queryQueue.js',
+    'D:\\Online-Judge-Project-master\\Online-Judge-Project-master\\server\\controllers\\explore.js',
+    'D:\\Online-Judge-Project-master\\Online-Judge-Project-master\\server\\routes\\explore.js',
+    'D:\\Online-Judge-Project-master\\Online-Judge-Project-master\\server\\index.js'
+  ]
+} 9/8/2024, 10:45:44 pm
+Error without msg in bull.process Error: Cannot find module './testcases/function binarySearch(nums, target) { ... }'
+Require stack:
+- D:\Online-Judge-Project-master\Online-Judge-Project-master\server\CodeExecuter\codeExecutor_dockerv.js
+- D:\Online-Judge-Project-master\Online-Judge-Project-master\server\CodeExecuter\queryQueue.js
+- D:\Online-Judge-Project-master\Online-Judge-Project-master\server\controllers\explore.js
+- D:\Online-Judge-Project-master\Online-Judge-Project-master\server\routes\explore.js
+- D:\Online-Judge-Project-master\Online-Judge-Project-master\server\index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Module._load (node:internal/modules/cjs/loader:985:27)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18)
+    at execCodeAgainstTestcases (D:\Online-Judge-Project-master\Online-Judge-Project-master\server\CodeExecuter\codeExecutor_dockerv.js:94:31)
+    at processAgainstTestcases (D:\Online-Judge-Project-master\Online-Judge-Project-master\server\CodeExecuter\queryQueue.js:32:26)
+    at Queue.<anonymous> (D:\Online-Judge-Project-master\Online-Judge-Project-master\server\CodeExecuter\queryQueue.js:52:48)
+    at handlers.<computed> (D:\Online-Judge-Project-master\Online-Judge-Project-master\server\node_modules\bull\lib\queue.js:701:42)
+    at Queue.processJob (D:\Online-Judge-Project-master\Online-Judge-Project-master\server\node_modules\bull\lib\queue.js:1162:22)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'D:\\Online-Judge-Project-master\\Online-Judge-Project-master\\server\\CodeExecuter\\codeExecutor_dockerv.js',
+    'D:\\Online-Judge-Project-master\\Online-Judge-Project-master\\server\\CodeExecuter\\queryQueue.js',
+    'D:\\Online-Judge-Project-master\\Online-Judge-Project-master\\server\\controllers\\explore.js',
+    'D:\\Online-Judge-Project-master\\Online-Judge-Project-master\\server\\routes\\explore.js',
+    'D:\\Online-Judge-Project-master\\Online-Judge-Project-master\\server\\index.js'
+  ]
+} 9/8/2024, 10:47:41 pm
+Error without msg in bull.process Error: Cannot find module './testcases/function binarySearch(nums, target) { ... }'
+Require stack:
+- D:\Online-Judge-Project-master\Online-Judge-Project-master\server\CodeExecuter\codeExecutor_dockerv.js
+- D:\Online-Judge-Project-master\Online-Judge-Project-master\server\CodeExecuter\queryQueue.js
+- D:\Online-Judge-Project-master\Online-Judge-Project-master\server\controllers\explore.js
+- D:\Online-Judge-Project-master\Online-Judge-Project-master\server\routes\explore.js
+- D:\Online-Judge-Project-master\Online-Judge-Project-master\server\index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Module._load (node:internal/modules/cjs/loader:985:27)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18)
+    at execCodeAgainstTestcases (D:\Online-Judge-Project-master\Online-Judge-Project-master\server\CodeExecuter\codeExecutor_dockerv.js:94:31)
+    at processAgainstTestcases (D:\Online-Judge-Project-master\Online-Judge-Project-master\server\CodeExecuter\queryQueue.js:32:26)
+    at Queue.<anonymous> (D:\Online-Judge-Project-master\Online-Judge-Project-master\server\CodeExecuter\queryQueue.js:52:48)
+    at handlers.<computed> (D:\Online-Judge-Project-master\Online-Judge-Project-master\server\node_modules\bull\lib\queue.js:701:42)
+    at Queue.processJob (D:\Online-Judge-Project-master\Online-Judge-Project-master\server\node_modules\bull\lib\queue.js:1162:22)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'D:\\Online-Judge-Project-master\\Online-Judge-Project-master\\server\\CodeExecuter\\codeExecutor_dockerv.js',
+    'D:\\Online-Judge-Project-master\\Online-Judge-Project-master\\server\\CodeExecuter\\queryQueue.js',
+    'D:\\Online-Judge-Project-master\\Online-Judge-Project-master\\server\\controllers\\explore.js',
+    'D:\\Online-Judge-Project-master\\Online-Judge-Project-master\\server\\routes\\explore.js',
+    'D:\\Online-Judge-Project-master\\Online-Judge-Project-master\\server\\index.js'
+  ]
+} 9/8/2024, 10:48:00 pm
+Error without msg in bull.process Error: Cannot find module './testcases/function binarySearch(nums, target) { ... }'
+Require stack:
+- D:\Online-Judge-Project-master\Online-Judge-Project-master\server\CodeExecuter\codeExecutor_dockerv.js
+- D:\Online-Judge-Project-master\Online-Judge-Project-master\server\CodeExecuter\queryQueue.js
+- D:\Online-Judge-Project-master\Online-Judge-Project-master\server\controllers\explore.js
+- D:\Online-Judge-Project-master\Online-Judge-Project-master\server\routes\explore.js
+- D:\Online-Judge-Project-master\Online-Judge-Project-master\server\index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Module._load (node:internal/modules/cjs/loader:985:27)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18)
+    at execCodeAgainstTestcases (D:\Online-Judge-Project-master\Online-Judge-Project-master\server\CodeExecuter\codeExecutor_dockerv.js:94:31)
+    at processAgainstTestcases (D:\Online-Judge-Project-master\Online-Judge-Project-master\server\CodeExecuter\queryQueue.js:32:26)
+    at Queue.<anonymous> (D:\Online-Judge-Project-master\Online-Judge-Project-master\server\CodeExecuter\queryQueue.js:52:48)
+    at handlers.<computed> (D:\Online-Judge-Project-master\Online-Judge-Project-master\server\node_modules\bull\lib\queue.js:701:42)
+    at Queue.processJob (D:\Online-Judge-Project-master\Online-Judge-Project-master\server\node_modules\bull\lib\queue.js:1162:22)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'D:\\Online-Judge-Project-master\\Online-Judge-Project-master\\server\\CodeExecuter\\codeExecutor_dockerv.js',
+    'D:\\Online-Judge-Project-master\\Online-Judge-Project-master\\server\\CodeExecuter\\queryQueue.js',
+    'D:\\Online-Judge-Project-master\\Online-Judge-Project-master\\server\\controllers\\explore.js',
+    'D:\\Online-Judge-Project-master\\Online-Judge-Project-master\\server\\routes\\explore.js',
+    'D:\\Online-Judge-Project-master\\Online-Judge-Project-master\\server\\index.js'
+  ]
+} 9/8/2024, 10:51:33 pm
+Error without msg in bull.process Error: Cannot find module './testcases/function binarySearch(nums, target) { ... }'
+Require stack:
+- D:\Online-Judge-Project-master\Online-Judge-Project-master\server\CodeExecuter\codeExecutor_dockerv.js
+- D:\Online-Judge-Project-master\Online-Judge-Project-master\server\CodeExecuter\queryQueue.js
+- D:\Online-Judge-Project-master\Online-Judge-Project-master\server\controllers\explore.js
+- D:\Online-Judge-Project-master\Online-Judge-Project-master\server\routes\explore.js
+- D:\Online-Judge-Project-master\Online-Judge-Project-master\server\index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Module._load (node:internal/modules/cjs/loader:985:27)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18)
+    at execCodeAgainstTestcases (D:\Online-Judge-Project-master\Online-Judge-Project-master\server\CodeExecuter\codeExecutor_dockerv.js:94:31)
+    at processAgainstTestcases (D:\Online-Judge-Project-master\Online-Judge-Project-master\server\CodeExecuter\queryQueue.js:32:26)
+    at Queue.<anonymous> (D:\Online-Judge-Project-master\Online-Judge-Project-master\server\CodeExecuter\queryQueue.js:52:48)
+    at handlers.<computed> (D:\Online-Judge-Project-master\Online-Judge-Project-master\server\node_modules\bull\lib\queue.js:701:42)
+    at Queue.processJob (D:\Online-Judge-Project-master\Online-Judge-Project-master\server\node_modules\bull\lib\queue.js:1162:22)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'D:\\Online-Judge-Project-master\\Online-Judge-Project-master\\server\\CodeExecuter\\codeExecutor_dockerv.js',
+    'D:\\Online-Judge-Project-master\\Online-Judge-Project-master\\server\\CodeExecuter\\queryQueue.js',
+    'D:\\Online-Judge-Project-master\\Online-Judge-Project-master\\server\\controllers\\explore.js',
+    'D:\\Online-Judge-Project-master\\Online-Judge-Project-master\\server\\routes\\explore.js',
+    'D:\\Online-Judge-Project-master\\Online-Judge-Project-master\\server\\index.js'
+  ]
+} 9/8/2024, 10:55:23 pm
+Error without msg in bull.process Error: Cannot find module './testcases/function binarySearch(nums, target) { ... }'
+Require stack:
+- D:\Online-Judge-Project-master\Online-Judge-Project-master\server\CodeExecuter\codeExecutor_dockerv.js
+- D:\Online-Judge-Project-master\Online-Judge-Project-master\server\CodeExecuter\queryQueue.js
+- D:\Online-Judge-Project-master\Online-Judge-Project-master\server\controllers\explore.js
+- D:\Online-Judge-Project-master\Online-Judge-Project-master\server\routes\explore.js
+- D:\Online-Judge-Project-master\Online-Judge-Project-master\server\index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Module._load (node:internal/modules/cjs/loader:985:27)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18)
+    at execCodeAgainstTestcases (D:\Online-Judge-Project-master\Online-Judge-Project-master\server\CodeExecuter\codeExecutor_dockerv.js:94:31)
+    at processAgainstTestcases (D:\Online-Judge-Project-master\Online-Judge-Project-master\server\CodeExecuter\queryQueue.js:32:26)
+    at Queue.<anonymous> (D:\Online-Judge-Project-master\Online-Judge-Project-master\server\CodeExecuter\queryQueue.js:52:48)
+    at handlers.<computed> (D:\Online-Judge-Project-master\Online-Judge-Project-master\server\node_modules\bull\lib\queue.js:701:42)
+    at Queue.processJob (D:\Online-Judge-Project-master\Online-Judge-Project-master\server\node_modules\bull\lib\queue.js:1162:22)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'D:\\Online-Judge-Project-master\\Online-Judge-Project-master\\server\\CodeExecuter\\codeExecutor_dockerv.js',
+    'D:\\Online-Judge-Project-master\\Online-Judge-Project-master\\server\\CodeExecuter\\queryQueue.js',
+    'D:\\Online-Judge-Project-master\\Online-Judge-Project-master\\server\\controllers\\explore.js',
+    'D:\\Online-Judge-Project-master\\Online-Judge-Project-master\\server\\routes\\explore.js',
+    'D:\\Online-Judge-Project-master\\Online-Judge-Project-master\\server\\index.js'
+  ]
+} 9/8/2024, 10:55:47 pm
+Error without msg in bull.process Error: Cannot find module './testcases/function binarySearch(nums, target) { ... }'
+Require stack:
+- D:\Online-Judge-Project-master\Online-Judge-Project-master\server\CodeExecuter\codeExecutor_dockerv.js
+- D:\Online-Judge-Project-master\Online-Judge-Project-master\server\CodeExecuter\queryQueue.js
+- D:\Online-Judge-Project-master\Online-Judge-Project-master\server\controllers\explore.js
+- D:\Online-Judge-Project-master\Online-Judge-Project-master\server\routes\explore.js
+- D:\Online-Judge-Project-master\Online-Judge-Project-master\server\index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Module._load (node:internal/modules/cjs/loader:985:27)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18)
+    at execCodeAgainstTestcases (D:\Online-Judge-Project-master\Online-Judge-Project-master\server\CodeExecuter\codeExecutor_dockerv.js:94:31)
+    at processAgainstTestcases (D:\Online-Judge-Project-master\Online-Judge-Project-master\server\CodeExecuter\queryQueue.js:32:26)
+    at Queue.<anonymous> (D:\Online-Judge-Project-master\Online-Judge-Project-master\server\CodeExecuter\queryQueue.js:52:48)
+    at handlers.<computed> (D:\Online-Judge-Project-master\Online-Judge-Project-master\server\node_modules\bull\lib\queue.js:701:42)
+    at Queue.processJob (D:\Online-Judge-Project-master\Online-Judge-Project-master\server\node_modules\bull\lib\queue.js:1162:22)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'D:\\Online-Judge-Project-master\\Online-Judge-Project-master\\server\\CodeExecuter\\codeExecutor_dockerv.js',
+    'D:\\Online-Judge-Project-master\\Online-Judge-Project-master\\server\\CodeExecuter\\queryQueue.js',
+    'D:\\Online-Judge-Project-master\\Online-Judge-Project-master\\server\\controllers\\explore.js',
+    'D:\\Online-Judge-Project-master\\Online-Judge-Project-master\\server\\routes\\explore.js',
+    'D:\\Online-Judge-Project-master\\Online-Judge-Project-master\\server\\index.js'
+  ]
+} 9/8/2024, 10:57:27 pm
+Error without msg in bull.process Error: Cannot find module './testcases/function binarySearch(nums, target) { ... }'
+Require stack:
+- D:\Online-Judge-Project-master\Online-Judge-Project-master\server\CodeExecuter\codeExecutor_dockerv.js
+- D:\Online-Judge-Project-master\Online-Judge-Project-master\server\CodeExecuter\queryQueue.js
+- D:\Online-Judge-Project-master\Online-Judge-Project-master\server\controllers\explore.js
+- D:\Online-Judge-Project-master\Online-Judge-Project-master\server\routes\explore.js
+- D:\Online-Judge-Project-master\Online-Judge-Project-master\server\index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Module._load (node:internal/modules/cjs/loader:985:27)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18)
+    at execCodeAgainstTestcases (D:\Online-Judge-Project-master\Online-Judge-Project-master\server\CodeExecuter\codeExecutor_dockerv.js:94:31)
+    at processAgainstTestcases (D:\Online-Judge-Project-master\Online-Judge-Project-master\server\CodeExecuter\queryQueue.js:32:26)
+    at Queue.<anonymous> (D:\Online-Judge-Project-master\Online-Judge-Project-master\server\CodeExecuter\queryQueue.js:52:48)
+    at handlers.<computed> (D:\Online-Judge-Project-master\Online-Judge-Project-master\server\node_modules\bull\lib\queue.js:701:42)
+    at Queue.processJob (D:\Online-Judge-Project-master\Online-Judge-Project-master\server\node_modules\bull\lib\queue.js:1162:22)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'D:\\Online-Judge-Project-master\\Online-Judge-Project-master\\server\\CodeExecuter\\codeExecutor_dockerv.js',
+    'D:\\Online-Judge-Project-master\\Online-Judge-Project-master\\server\\CodeExecuter\\queryQueue.js',
+    'D:\\Online-Judge-Project-master\\Online-Judge-Project-master\\server\\controllers\\explore.js',
+    'D:\\Online-Judge-Project-master\\Online-Judge-Project-master\\server\\routes\\explore.js',
+    'D:\\Online-Judge-Project-master\\Online-Judge-Project-master\\server\\index.js'
+  ]
+} 9/8/2024, 11:02:18 pm
+Error without msg in bull.process Error: Cannot find module './testcases/function binarySearch(nums, target) { ... }'
+Require stack:
+- D:\Online-Judge-Project-master\Online-Judge-Project-master\server\CodeExecuter\codeExecutor_dockerv.js
+- D:\Online-Judge-Project-master\Online-Judge-Project-master\server\CodeExecuter\queryQueue.js
+- D:\Online-Judge-Project-master\Online-Judge-Project-master\server\controllers\explore.js
+- D:\Online-Judge-Project-master\Online-Judge-Project-master\server\routes\explore.js
+- D:\Online-Judge-Project-master\Online-Judge-Project-master\server\index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Module._load (node:internal/modules/cjs/loader:985:27)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18)
+    at execCodeAgainstTestcases (D:\Online-Judge-Project-master\Online-Judge-Project-master\server\CodeExecuter\codeExecutor_dockerv.js:94:31)
+    at processAgainstTestcases (D:\Online-Judge-Project-master\Online-Judge-Project-master\server\CodeExecuter\queryQueue.js:32:26)
+    at Queue.<anonymous> (D:\Online-Judge-Project-master\Online-Judge-Project-master\server\CodeExecuter\queryQueue.js:52:48)
+    at handlers.<computed> (D:\Online-Judge-Project-master\Online-Judge-Project-master\server\node_modules\bull\lib\queue.js:701:42)
+    at Queue.processJob (D:\Online-Judge-Project-master\Online-Judge-Project-master\server\node_modules\bull\lib\queue.js:1162:22)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'D:\\Online-Judge-Project-master\\Online-Judge-Project-master\\server\\CodeExecuter\\codeExecutor_dockerv.js',
+    'D:\\Online-Judge-Project-master\\Online-Judge-Project-master\\server\\CodeExecuter\\queryQueue.js',
+    'D:\\Online-Judge-Project-master\\Online-Judge-Project-master\\server\\controllers\\explore.js',
+    'D:\\Online-Judge-Project-master\\Online-Judge-Project-master\\server\\routes\\explore.js',
+    'D:\\Online-Judge-Project-master\\Online-Judge-Project-master\\server\\index.js'
+  ]
+} 9/8/2024, 11:02:47 pm
+Error without msg in bull.process Error: Cannot find module './testcases/function binarySearch(nums, target) { ... }'
+Require stack:
+- D:\Online-Judge-Project-master\Online-Judge-Project-master\server\CodeExecuter\codeExecutor_dockerv.js
+- D:\Online-Judge-Project-master\Online-Judge-Project-master\server\CodeExecuter\queryQueue.js
+- D:\Online-Judge-Project-master\Online-Judge-Project-master\server\controllers\explore.js
+- D:\Online-Judge-Project-master\Online-Judge-Project-master\server\routes\explore.js
+- D:\Online-Judge-Project-master\Online-Judge-Project-master\server\index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Module._load (node:internal/modules/cjs/loader:985:27)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18)
+    at execCodeAgainstTestcases (D:\Online-Judge-Project-master\Online-Judge-Project-master\server\CodeExecuter\codeExecutor_dockerv.js:94:31)
+    at processAgainstTestcases (D:\Online-Judge-Project-master\Online-Judge-Project-master\server\CodeExecuter\queryQueue.js:32:26)
+    at Queue.<anonymous> (D:\Online-Judge-Project-master\Online-Judge-Project-master\server\CodeExecuter\queryQueue.js:52:48)
+    at handlers.<computed> (D:\Online-Judge-Project-master\Online-Judge-Project-master\server\node_modules\bull\lib\queue.js:701:42)
+    at Queue.processJob (D:\Online-Judge-Project-master\Online-Judge-Project-master\server\node_modules\bull\lib\queue.js:1162:22)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'D:\\Online-Judge-Project-master\\Online-Judge-Project-master\\server\\CodeExecuter\\codeExecutor_dockerv.js',
+    'D:\\Online-Judge-Project-master\\Online-Judge-Project-master\\server\\CodeExecuter\\queryQueue.js',
+    'D:\\Online-Judge-Project-master\\Online-Judge-Project-master\\server\\controllers\\explore.js',
+    'D:\\Online-Judge-Project-master\\Online-Judge-Project-master\\server\\routes\\explore.js',
+    'D:\\Online-Judge-Project-master\\Online-Judge-Project-master\\server\\index.js'
+  ]
+} 9/8/2024, 11:02:50 pm
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 10/8/2024, 7:51:38 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 10/8/2024, 7:51:38 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 10/8/2024, 7:51:38 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 10/8/2024, 7:51:38 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 10/8/2024, 7:51:38 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 10/8/2024, 7:51:38 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 10/8/2024, 7:51:38 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 10/8/2024, 7:51:38 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 10/8/2024, 7:51:38 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 10/8/2024, 7:51:39 am
+Docker Error:  gcc-oj-container Docker Error : {"msg":"on docker error","error":{"code":127,"killed":false,"signal":null,"cmd":"docker run -i -d --rm --mount type=bind,src=\"D:\\Online-Judge-Project-master\\Online-Judge-Project-master\\server\\CodeExecuter\\codeFiles\",dst=/codeFiles --name gcc-oj-container --label oj=oj gcc:latest"},"stderr":"docker: error during connect: Head \"http://%2F%2F.%2Fpipe%2FdockerDesktopLinuxEngine/_ping\": open //./pipe/dockerDesktopLinuxEngine: The system cannot find the file specified.\nSee 'docker run --help'.\n"}
+10/8/2024, 7:51:39 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 10/8/2024, 7:51:39 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 10/8/2024, 7:51:39 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 10/8/2024, 7:51:39 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 10/8/2024, 7:51:39 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 10/8/2024, 7:51:40 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 10/8/2024, 7:51:40 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 10/8/2024, 7:51:43 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 10/8/2024, 7:51:43 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 10/8/2024, 7:51:51 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 10/8/2024, 7:51:51 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 10/8/2024, 7:52:11 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 10/8/2024, 7:52:11 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 10/8/2024, 7:52:31 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 10/8/2024, 7:52:31 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 10/8/2024, 7:52:51 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 10/8/2024, 7:52:51 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 10/8/2024, 7:53:11 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 10/8/2024, 7:53:11 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 10/8/2024, 7:53:31 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 10/8/2024, 7:53:31 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 10/8/2024, 7:53:51 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 10/8/2024, 7:53:51 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 10/8/2024, 7:54:11 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 10/8/2024, 7:54:11 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 10/8/2024, 7:54:31 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 10/8/2024, 7:54:31 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 10/8/2024, 7:54:51 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 10/8/2024, 7:54:51 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 10/8/2024, 7:55:11 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 10/8/2024, 7:55:11 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 10/8/2024, 7:55:31 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 10/8/2024, 7:55:31 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 10/8/2024, 7:55:51 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 10/8/2024, 7:55:51 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 10/8/2024, 7:56:11 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 10/8/2024, 7:56:11 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 10/8/2024, 7:56:31 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 10/8/2024, 7:56:31 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 10/8/2024, 7:56:51 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 10/8/2024, 7:56:51 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 10/8/2024, 7:57:11 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 10/8/2024, 7:57:11 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 10/8/2024, 7:57:31 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 10/8/2024, 7:57:32 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 10/8/2024, 7:57:51 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 10/8/2024, 7:57:52 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 10/8/2024, 7:58:12 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 10/8/2024, 7:58:12 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 10/8/2024, 7:58:32 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 10/8/2024, 7:58:32 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 10/8/2024, 7:58:52 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 10/8/2024, 7:58:52 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 10/8/2024, 7:59:12 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 10/8/2024, 7:59:12 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 10/8/2024, 7:59:32 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 10/8/2024, 7:59:32 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 10/8/2024, 7:59:52 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 10/8/2024, 7:59:52 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 10/8/2024, 8:00:12 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 10/8/2024, 8:00:12 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 10/8/2024, 8:00:32 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 10/8/2024, 8:00:32 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 10/8/2024, 8:00:52 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 10/8/2024, 8:00:52 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 10/8/2024, 8:01:12 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 10/8/2024, 8:01:12 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 10/8/2024, 8:01:32 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 10/8/2024, 8:01:32 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 11/8/2024, 10:03:51 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 11/8/2024, 10:03:51 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 11/8/2024, 10:03:51 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 11/8/2024, 10:03:51 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 11/8/2024, 10:03:51 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 11/8/2024, 10:03:51 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 11/8/2024, 10:03:51 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 11/8/2024, 10:03:51 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 11/8/2024, 10:03:51 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 11/8/2024, 10:03:51 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 11/8/2024, 10:03:51 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 11/8/2024, 10:03:51 am
+Docker Error:  gcc-oj-container Docker Error : {"msg":"on docker error","error":{"code":127,"killed":false,"signal":null,"cmd":"docker run -i -d --rm --mount type=bind,src=\"D:\\Online-Judge-Project-master\\Online-Judge-Project-master\\server\\CodeExecuter\\codeFiles\",dst=/codeFiles --name gcc-oj-container --label oj=oj gcc:latest"},"stderr":"docker: error during connect: Head \"http://%2F%2F.%2Fpipe%2FdockerDesktopLinuxEngine/_ping\": open //./pipe/dockerDesktopLinuxEngine: The system cannot find the file specified.\nSee 'docker run --help'.\n"}
+11/8/2024, 10:03:51 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 11/8/2024, 10:03:52 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 11/8/2024, 10:03:52 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 11/8/2024, 10:03:53 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 11/8/2024, 10:03:53 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 11/8/2024, 10:03:56 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 11/8/2024, 10:03:56 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 11/8/2024, 10:04:04 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 11/8/2024, 10:04:04 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 11/8/2024, 10:04:24 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 11/8/2024, 10:04:24 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 11/8/2024, 10:04:44 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 11/8/2024, 10:04:44 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 11/8/2024, 10:05:04 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 11/8/2024, 10:05:04 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 11/8/2024, 10:05:24 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 11/8/2024, 10:05:24 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 11/8/2024, 10:05:44 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 11/8/2024, 10:05:44 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 11/8/2024, 10:06:04 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 11/8/2024, 10:06:04 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 11/8/2024, 10:06:24 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 11/8/2024, 10:06:24 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 11/8/2024, 10:06:44 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 11/8/2024, 10:06:44 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 11/8/2024, 10:07:04 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 11/8/2024, 10:07:04 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 11/8/2024, 10:07:24 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 11/8/2024, 10:07:24 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 11/8/2024, 10:07:44 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 11/8/2024, 10:07:44 am
+MaxRetriesPerRequestError: Reached the max retries per request limit (which is 20). Refer to "maxRetriesPerRequest" option for details.
+    at Socket.<anonymous> (D:\Online-Judge-Project-master\Online-Judge-Project-master\server\node_modules\bull\node_modules\ioredis\built\redis\event_handler.js:177:37)
+    at Object.onceWrapper (node:events:633:26)
+    at Socket.emit (node:events:518:28)
+    at TCP.<anonymous> (node:net:337:12) 11/8/2024, 10:07:44 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 11/8/2024, 10:08:04 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 11/8/2024, 10:08:04 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 11/8/2024, 10:08:24 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 11/8/2024, 10:08:24 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 11/8/2024, 10:08:44 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 11/8/2024, 10:08:44 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 11/8/2024, 10:09:04 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 11/8/2024, 10:09:04 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 11/8/2024, 10:09:24 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 11/8/2024, 10:09:24 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 11/8/2024, 10:09:44 am
+bull/redis error Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379
+} 11/8/2024, 10:09:44 am
