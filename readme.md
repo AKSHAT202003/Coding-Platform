@@ -1,13 +1,13 @@
-# Online-Judge | Online-Coding-Platform | (MERN-Based Website)
+# Coding Platform | (MERN-Based Website)
 
 - Build a platform that remotely runs and compiles user submitted code for a programming problem securely and judges if the code is correct/wrong
 - Provided access to users to keep track of submitted code by maintaining Leaderboard and history of submissions
 - Used Docker and Sandboxing techniques to make online judge more secure
 - Used Poling and Queue to handle multiple requests
 - Deployed and can be used by many users by Horizontal Scaling
-- You can visit Live site here: [Online Judge](https://oj.amanarya.com)
 
-## Run Online-Judge Locally
+
+## Run Coding Platform Locally
 
 - Navigate to client directory and install all dependencies for client side code using command : `npm install` and then run `npm start` to run react on [PORT 3000](https://localhost:3000)
 - Navigate to the server directory and install the dependencies using the command `npm install`
